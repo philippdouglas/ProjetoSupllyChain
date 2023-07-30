@@ -7,6 +7,7 @@ O Projeto SupplyChain é um sistema de gerenciamento de mercadorias desenvolvido
 - Gerenciar as mercadorias disponíveis;
 - Registrar entradas e saídas de mercadorias;
 - Visualizar gráficos das entradas e saídas por mês de cada mercadoria;
+- Quantidade dos Produtos em estoque;
 - Exportar relatórios mensais com todas as entradas e saídas de todas as mercadorias.
 
 ## Requisitos
