@@ -1,0 +1,33 @@
+@model IEnumerable<Mercadoria>
+
+@{
+    ViewData["Title"] = "Detalhes da Mercadoria";
+}
+
+<h1>@ViewData["Title"]</h1>
+@foreach (var Mercadoria in Model)  // Iterando sobre a lista de mercadorias
+{
+    <div>
+        <h4>Mercadoria</h4>
+        <hr />
+        <dl class="row">
+            <dt class="col-sm-2">Id</dt>
+            <dd class="col-sm-10">@Mercadoria.Id</dd>
+            <dt class="col-sm-2">Nome</dt>
+            <dd class="col-sm-10">@Mercadoria.Nome</dd>
+            <dt class="col-sm-2">Número de Registro</dt>
+            <dd class="col-sm-10">@Mercadoria.NumeroRegistro</dd>
+            <dt class="col-sm-2">Fabricante</dt>
+            <dd class="col-sm-10">@Mercadoria.Fabricante</dd>
+            <dt class="col-sm-2">Tipo</dt>
+            <dd class="col-sm-10">@Mercadoria.Tipo</dd>
+            <dt class="col-sm-2">Descrição</dt>
+            <dd class="col-sm-10">@Mercadoria.Descricao</dd>
+        </dl>
+        <div>
+            <a asp-action="Edit" asp-route-id="@Mercadoria.Id" class="btn btn-primary">Editar</a>
+            <a asp-action="Index" class="btn btn-secondary">Voltar para Lista</a>
+        </div>
+    </div>
+}
+

@@ -1,0 +1,130 @@
+@model IEnumerable<Mercadoria>
+
+<h2>Cadastro de Saida</h2>
+
+<form asp-controller="Saida" asp-action="SalvarSaida" method="post">
+    <div class="row">
+        <div class="col-md-6">
+            <div class="form-group">
+                <label for="selectMercadoria">Selecione a Mercadoria:</label>
+                <select class="form-control" id="selectMercadoria" name="MercadoriaId">
+                    @foreach (var mercadoria in Model)
+                    {
+                        <option value="@mercadoria.Id" data-nome="@mercadoria.Nome" data-numero-registro="@mercadoria.NumeroRegistro" data-fabricante="@mercadoria.Fabricante" data-tipo="@mercadoria.Tipo" data-descricao="@mercadoria.Descricao">
+                            @($"{mercadoria.Id} - {mercadoria.Nome} - Nº Registro: {mercadoria.NumeroRegistro} - Fabricante: {mercadoria.Fabricante} - Tipo: {mercadoria.Tipo} - Descrição: {mercadoria.Descricao}")
+                        </option>
+                    }
+                </select>
+            </div>
+            <div class="form-group">
+                <label for="inputNome">Nome:</label>
+                <input type="text" class="form-control" id="inputNome" name="Nome" readonly>
+            </div>
+            <div class="form-group">
+                <label for="inputFabricante">Fabricante:</label>
+                <input type="text" class="form-control" id="inputFabricante" name="Fabricante" readonly>
+            </div>
+        </div>
+        <div class="col-md-6">
+            <div class="form-group">
+                <label for="inputNumeroRegistro">Número de Registro:</label>
+                <input type="text" class="form-control" id="inputNumeroRegistro" name="NumeroRegistro" readonly>
+            </div>
+            <div class="form-group">
+                <label for="inputTipo">Tipo:</label>
+                <input type="text" class="form-control" id="inputTipo" name="Tipo" readonly>
+            </div>
+            <div class="form-group">
+                <label for="inputDescricao">Descrição:</label>
+                <input type="text" class="form-control" id="inputDescricao" name="Descricao" readonly>
+            </div>
+        </div>
+    </div>
+
+    <div class="form-row">
+        <div class="form-group col-md-4">
+            <label for="inputQuantidade">Quantidade:</label>
+            <input type="number" class="form-control" id="inputQuantidade" name="Quantidade">
+        </div>
+        <div class="form-group col-md-4">
+            <label for="inputDataSaida">Data de Saida:</label>
+            <input type="date" class="form-control" id="inputDataSaida" name="DataHora">
+        </div>
+        <div class="form-group col-md-4">
+            <label for="inputLocal">Local:</label>
+            <input type="text" class="form-control" id="inputLocal" name="Local">
+        </div>
+    </div>
+
+    <button type="submit" class="btn btn-primary mb-3">Adicionar Saida</button>
+</form>
+
+
+<script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+<script>
+    $(document).ready(function () {
+        // Quando uma mercadoria é selecionada no select
+        $("#selectMercadoria").change(function () {
+            // Obter os dados da mercadoria selecionada
+            var selectedOption = $(this).find(":selected");
+            var nome = selectedOption.data("nome");
+            var numeroRegistro = selectedOption.data("numero-registro");
+            var fabricante = selectedOption.data("fabricante");
+            var tipo = selectedOption.data("tipo");
+            var descricao = selectedOption.data("descricao");
+
+            // Atualizar os campos automaticamente com os dados da mercadoria
+            $("#inputNome").val(nome);
+            $("#inputNumeroRegistro").val(numeroRegistro);
+            $("#inputFabricante").val(fabricante);
+            $("#inputTipo").val(tipo);
+            $("#inputDescricao").val(descricao);
+        });
+    });
+</script>
+
+<h2>Lista de Saidas Cadastradas</h2>
+
+<!-- Botão para exportar para Excel -->
+<a asp-action="ExportarSaidasParaExcel" asp-controller="Saida" class="btn btn-success">Exportar Histórico (.xlsx)</a>
+<a asp-action="SelecionarDataExportacaoSaida" asp-controller="Saida" class="btn btn-success">Exportar Relatório Mensal (.xlsx)</a>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>Id</th>
+            <th>Nome</th>
+            <th>Número de Registro</th>
+            <th>Fabricante</th>
+            <th>Tipo</th>
+            <th>Descrição</th>
+            <th>Quantidade</th>
+            <th>Data de Saida</th>
+            <th>Local</th>
+            <th></th> <!-- Adicionei uma coluna extra para o botão de exclusão -->
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var saida in ViewBag.SaidasCadastradas)
+        {
+            <tr>
+                <td>@saida.Id</td>
+                <td>@saida.Mercadoria.Nome</td>
+                <td>@saida.Mercadoria.NumeroRegistro</td>
+                <td>@saida.Mercadoria.Fabricante</td>
+                <td>@saida.Mercadoria.Tipo</td>
+                <td>@saida.Mercadoria.Descricao</td>
+                <td>@saida.Quantidade</td>
+                <td>@saida.DataHora.ToString("dd/MM/yyyy")</td>
+                <td>@saida.Local</td>
+                <td>
+                    <form asp-controller="Saida" asp-action="ExcluirSaida" method="post" onsubmit="return confirm('Deseja excluir esta Saida?');">
+                        <input type="hidden" name="id" value="@saida.Id" />
+                        <button type="submit" class="btn btn-danger">Excluir</button>
+                    </form>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+

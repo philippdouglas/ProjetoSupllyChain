@@ -1,0 +1,29 @@
+@{
+    ViewData["Title"] = "Selecionar Data do Relatório";
+}
+
+<h1>@ViewData["Title"]</h1>
+<form asp-controller="Saida" asp-action="ExportarSaidasParaExcel" method="post">
+    <div class="form-group">
+        <label for="mes">Mês:</label>
+        <select class="form-control" name="mes" id="mes">
+            <option value="1">Janeiro</option>
+            <option value="2">Fevereiro</option>
+            <option value="3">Março</option>
+            <option value="4">Abril</option>
+            <option value="5">Maio</option>
+            <option value="6">Junho</option>
+            <option value="7">Julho</option>
+            <option value="8">Agosto</option>
+            <option value="9">Setembro</option>
+            <option value="10">Outubro</option>
+            <option value="11">Novembro</option>
+            <option value="12">Dezembro</option>
+        </select>
+    </div>
+    <div class="form-group">
+        <label for="ano">Ano:</label>
+        <input type="number" class="form-control" name="ano" id="ano" min="1900" max="2099" value="@DateTime.Now.Year" />
+    </div>
+    <button type="submit" class="btn btn-primary">Exportar para Excel</button>
+</form>

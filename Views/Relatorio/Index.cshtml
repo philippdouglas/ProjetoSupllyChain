@@ -1,0 +1,75 @@
+﻿@model List<SupplyChain.Models.EntradaESaidaViewModel>
+
+@{
+    ViewBag.Title = "Relatório de Entradas e Saídas";
+}
+
+<div class="container">
+    <h2 class="text-center">Relatório de Entradas e Saídas</h2>
+    <div class="chart-container">
+        <canvas id="entradaSaidaChart"></canvas>
+    </div>
+</div>
+
+<!-- Bibliotecas JavaScript necessárias para o gráfico -->
+<script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+<!-- Biblioteca chartjs-plugin-datalabels -->
+<script src="https://cdn.jsdelivr.net/npm/chartjs-plugin-datalabels@2.0.0/dist/chartjs-plugin-datalabels.min.js"></script>
+
+<!-- Script para configurar o gráfico -->
+<script>
+    $(document).ready(function () {
+        $.ajax({
+            url: "/Relatorio/GetChartData",
+            method: "GET",
+            dataType: "json",
+            success: function (data) {
+                var ctx = document.getElementById("entradaSaidaChart").getContext("2d");
+
+                var entradaSaidaChart = new Chart(ctx, {
+                    type: "bar",
+                    data: {
+                        labels: data.labels,
+                        datasets: data.datasets
+                    },
+                    options: {
+                        plugins: {
+                            legend: {
+                                labels: {
+                                    color: "white"
+                                }
+                            },
+                            datalabels: {
+                                color: "white",
+                                anchor: 'end',
+                                align: 'end',
+                                formatter: function(value, context) {
+                                    if (value !== 0) { // Exibe o número apenas se for diferente de zero
+                                        return value;
+                                    }
+                                    return ''; // Oculta o valor zero dentro das barras
+                                }
+                            }
+                        },
+                        scales: {
+                            x: {
+                                type: 'category',
+                                position: 'bottom',
+                                ticks: {
+                                    color: "white"
+                                }
+                            },
+                            y: {
+                                beginAtZero: true,
+                                ticks: {
+                                    color: "white"
+                                }
+                            }
+                        }
+                    }
+                });
+            }
+        });
+    });
+</script>
