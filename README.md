@@ -24,8 +24,13 @@ O Projeto SupplyChain é um sistema de gerenciamento de mercadorias desenvolvido
 
 2. Execute os seguintes comandos no terminal:
 
+```bash
 dotnet build
+```
+
+```bash
 dotnet run
+```
 
 
 3. Abra o seu navegador e acesse a URL [https://localhost:5001/Home](https://localhost:5001/Home) ou [https://localhost:5009/Home](https://localhost:5009/Home).
