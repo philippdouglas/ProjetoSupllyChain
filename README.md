@@ -44,6 +44,7 @@ dotnet run
 [![SQLite](https://img.shields.io/badge/-SQLite-blue)](https://www.sqlite.org/)
 
 ## Licença
-Este projeto está sob a licença MIT License.
+
+Este projeto está sob a "**Licença MIT**" [LICENSE](LICENSE)
 
 
