@@ -45,6 +45,6 @@ dotnet run
 
 ## Licença
 
-Este projeto está sob a "**Licença MIT**" [https://opensource.org/licenses/MIT.](LICENSE)
+Este projeto está sob a "**Licença MIT**"
 
 
