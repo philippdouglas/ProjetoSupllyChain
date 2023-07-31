@@ -4,14 +4,12 @@
 O Projeto SupplyChain é um sistema de gerenciamento de mercadorias desenvolvido em C#, .NET, Entity Framework, JQuery, Bootstrap e SQLite. O objetivo deste sistema é permitir o controle de estoque e movimentação de mercadorias, oferecendo funcionalidades para gerenciamento das mercadorias, registro de entradas e saídas, visualização de entradas e saídas por mês em formato de gráfico, e exportação de relatórios mensais contendo todas as movimentações.
 
 ## Funcionalidades
-- Gerenciar as mercadorias disponíveis;
-- Registrar entradas e saídas de mercadorias;
-- Visualizar gráficos das entradas e saídas por mês de cada mercadoria;
+- Gerencia as mercadorias disponíveis;
+- Registra entradas e saídas de mercadorias;
+- Gráfico das entradas e saídas por mês de cada mercadoria;
 - Quantidade dos Produtos em estoque;
-- Exportar relatórios mensais com todas as entradas e saídas de todas as mercadorias.
-
-## Requisitos
-- Validar os dados no cliente antes de enviá-los ao servidor, garantindo que campos em branco e caracteres inválidos não sejam submetidos;
+- Exporta relatórios mensais com todas as entradas e saídas de todas as mercadorias.
+- Valida os dados no cliente antes de enviá-los ao servidor, garantindo que campos em branco e caracteres inválidos não sejam submetidos;
 - Desenvolvido no sistema .NET MVC, utilizando a linguagem C#;
 - Utiliza o Entity Framework para acesso ao banco de dados;
 - Utiliza o framework front-end Bootstrap na camada Web;
