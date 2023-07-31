@@ -1,10 +1,10 @@
 # Projeto SupplyChain
-![1](https://github.com/philippdouglas/ProjetoSupllyChain/assets/78768376/fb92df88-eb23-4cc8-a2ab-f7fb53fb609c)
+![1](https://github.com/philippdouglas/ProjetoSupllyChain/assets/78768376/5f27a681-7fbd-4264-999e-b691356310d0)
 
 ## Descrição
 O Projeto SupplyChain é um sistema de gerenciamento de mercadorias desenvolvido em C#, .NET, Entity Framework, JQuery, Bootstrap e SQLite. O objetivo deste sistema é permitir o controle de estoque e movimentação de mercadorias, oferecendo funcionalidades para gerenciamento das mercadorias, registro de entradas e saídas, visualização de entradas e saídas por mês em formato de gráfico, e exportação de relatórios mensais contendo todas as movimentações.
 
-![2](https://github.com/philippdouglas/ProjetoSupllyChain/assets/78768376/fb06dfce-6b66-478c-adea-c2664b372689)
+![2](https://github.com/philippdouglas/ProjetoSupllyChain/assets/78768376/25f29b13-3e87-41da-9a11-358468a9b242)
 
 ## Funcionalidades
 - Gerencia as mercadorias disponíveis;
@@ -21,7 +21,7 @@ O Projeto SupplyChain é um sistema de gerenciamento de mercadorias desenvolvido
 - Registrar saídas contendo quantidade, data e hora, local e uma lista com todas as mercadorias já cadastradas, salvando a mercadoria selecionada na tabela de Saída do banco de dados;
 - Banco de dados utilizando SQLite.
   
-![3](https://github.com/philippdouglas/ProjetoSupllyChain/assets/78768376/2bcee256-82d2-496d-b415-6dcbe9943582)
+![3](https://github.com/philippdouglas/ProjetoSupllyChain/assets/78768376/9924afaa-e13f-41e5-a9fb-91f997834142)
 
 ## Rodar o Projeto (Vs Code)
 1. Abra o terminal no Visual Studio Code.
@@ -35,7 +35,7 @@ dotnet build
 ```bash
 dotnet run
 ```
-![5](https://github.com/philippdouglas/ProjetoSupllyChain/assets/78768376/bb0d8e43-1a1b-4479-9245-d8253e339382)
+![5](https://github.com/philippdouglas/ProjetoSupllyChain/assets/78768376/e3b756ea-5ff7-461e-91da-2cb55a3c4a28)
 
 3. Abra o seu navegador e acesse a URL [https://localhost:5001/Home](https://localhost:5001/Home) ou [https://localhost:5009/Home](https://localhost:5009/Home).
 
