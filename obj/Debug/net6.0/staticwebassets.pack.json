@@ -1,363 +1,363 @@
 {
   "Files": [
     {
-      "Id": "C:\\SupplyChain\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\SupplyChain.bundle.scp.css",
+      "Id": "C:\\SupplyChain v4\\ProjetoSupllyChain\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\SupplyChain.bundle.scp.css",
       "PackagePath": "staticwebassets\\SupplyChain.bundle.scp.css"
     },
     {
-      "Id": "C:\\SupplyChain\\wwwroot\\assets\\demo\\chart-area-demo.js",
+      "Id": "C:\\SupplyChain v4\\ProjetoSupllyChain\\wwwroot\\assets\\demo\\chart-area-demo.js",
       "PackagePath": "staticwebassets\\assets\\demo\\chart-area-demo.js"
     },
     {
-      "Id": "C:\\SupplyChain\\wwwroot\\assets\\demo\\chart-bar-demo.js",
+      "Id": "C:\\SupplyChain v4\\ProjetoSupllyChain\\wwwroot\\assets\\demo\\chart-bar-demo.js",
       "PackagePath": "staticwebassets\\assets\\demo\\chart-bar-demo.js"
     },
     {
-      "Id": "C:\\SupplyChain\\wwwroot\\assets\\demo\\chart-pie-demo.js",
+      "Id": "C:\\SupplyChain v4\\ProjetoSupllyChain\\wwwroot\\assets\\demo\\chart-pie-demo.js",
       "PackagePath": "staticwebassets\\assets\\demo\\chart-pie-demo.js"
     },
     {
-      "Id": "C:\\SupplyChain\\wwwroot\\assets\\demo\\datatables-demo.js",
+      "Id": "C:\\SupplyChain v4\\ProjetoSupllyChain\\wwwroot\\assets\\demo\\datatables-demo.js",
       "PackagePath": "staticwebassets\\assets\\demo\\datatables-demo.js"
     },
     {
-      "Id": "C:\\SupplyChain\\wwwroot\\assets\\img\\error-404-monochrome.svg",
+      "Id": "C:\\SupplyChain v4\\ProjetoSupllyChain\\wwwroot\\assets\\img\\error-404-monochrome.svg",
       "PackagePath": "staticwebassets\\assets\\img\\error-404-monochrome.svg"
     },
     {
-      "Id": "C:\\SupplyChain\\wwwroot\\css\\site.css",
+      "Id": "C:\\SupplyChain v4\\ProjetoSupllyChain\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },
     {
-      "Id": "C:\\SupplyChain\\wwwroot\\css\\styles.css",
+      "Id": "C:\\SupplyChain v4\\ProjetoSupllyChain\\wwwroot\\css\\styles.css",
       "PackagePath": "staticwebassets\\css\\styles.css"
     },
     {
-      "Id": "C:\\SupplyChain\\wwwroot\\favicon.ico",
+      "Id": "C:\\SupplyChain v4\\ProjetoSupllyChain\\wwwroot\\favicon.ico",
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
-      "Id": "C:\\SupplyChain\\wwwroot\\images\\artbreeder-image-2x.png",
+      "Id": "C:\\SupplyChain v4\\ProjetoSupllyChain\\wwwroot\\images\\artbreeder-image-2x.png",
       "PackagePath": "staticwebassets\\images\\artbreeder-image-2x.png"
     },
     {
-      "Id": "C:\\SupplyChain\\wwwroot\\images\\logo.png",
+      "Id": "C:\\SupplyChain v4\\ProjetoSupllyChain\\wwwroot\\images\\logo.png",
       "PackagePath": "staticwebassets\\images\\logo.png"
     },
     {
-      "Id": "C:\\SupplyChain\\wwwroot\\js\\datatables-simple-demo.js",
+      "Id": "C:\\SupplyChain v4\\ProjetoSupllyChain\\wwwroot\\js\\datatables-simple-demo.js",
       "PackagePath": "staticwebassets\\js\\datatables-simple-demo.js"
     },
     {
-      "Id": "C:\\SupplyChain\\wwwroot\\js\\relatorio.js",
+      "Id": "C:\\SupplyChain v4\\ProjetoSupllyChain\\wwwroot\\js\\relatorio.js",
       "PackagePath": "staticwebassets\\js\\relatorio.js"
     },
     {
-      "Id": "C:\\SupplyChain\\wwwroot\\js\\scripts.js",
+      "Id": "C:\\SupplyChain v4\\ProjetoSupllyChain\\wwwroot\\js\\scripts.js",
       "PackagePath": "staticwebassets\\js\\scripts.js"
     },
     {
-      "Id": "C:\\SupplyChain\\wwwroot\\js\\site.js",
+      "Id": "C:\\SupplyChain v4\\ProjetoSupllyChain\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
     },
     {
-      "Id": "C:\\SupplyChain\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "Id": "C:\\SupplyChain v4\\ProjetoSupllyChain\\wwwroot\\lib\\bootstrap\\LICENSE",
       "PackagePath": "staticwebassets\\lib\\bootstrap"
     },
     {
-      "Id": "C:\\SupplyChain\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "Id": "C:\\SupplyChain v4\\ProjetoSupllyChain\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
     {
-      "Id": "C:\\SupplyChain\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "Id": "C:\\SupplyChain v4\\ProjetoSupllyChain\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
     },
     {
-      "Id": "C:\\SupplyChain\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "Id": "C:\\SupplyChain v4\\ProjetoSupllyChain\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
     },
     {
-      "Id": "C:\\SupplyChain\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "Id": "C:\\SupplyChain v4\\ProjetoSupllyChain\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Id": "C:\\SupplyChain\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "Id": "C:\\SupplyChain v4\\ProjetoSupllyChain\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
     },
     {
-      "Id": "C:\\SupplyChain\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "Id": "C:\\SupplyChain v4\\ProjetoSupllyChain\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
     },
     {
-      "Id": "C:\\SupplyChain\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "Id": "C:\\SupplyChain v4\\ProjetoSupllyChain\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
     },
     {
-      "Id": "C:\\SupplyChain\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "Id": "C:\\SupplyChain v4\\ProjetoSupllyChain\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Id": "C:\\SupplyChain\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "Id": "C:\\SupplyChain v4\\ProjetoSupllyChain\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
     },
     {
-      "Id": "C:\\SupplyChain\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "Id": "C:\\SupplyChain v4\\ProjetoSupllyChain\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Id": "C:\\SupplyChain\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "Id": "C:\\SupplyChain v4\\ProjetoSupllyChain\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Id": "C:\\SupplyChain\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "Id": "C:\\SupplyChain v4\\ProjetoSupllyChain\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
     },
     {
-      "Id": "C:\\SupplyChain\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "Id": "C:\\SupplyChain v4\\ProjetoSupllyChain\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
     },
     {
-      "Id": "C:\\SupplyChain\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "Id": "C:\\SupplyChain v4\\ProjetoSupllyChain\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
     },
     {
-      "Id": "C:\\SupplyChain\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "Id": "C:\\SupplyChain v4\\ProjetoSupllyChain\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
     },
     {
-      "Id": "C:\\SupplyChain\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "Id": "C:\\SupplyChain v4\\ProjetoSupllyChain\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
     },
     {
-      "Id": "C:\\SupplyChain\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "Id": "C:\\SupplyChain v4\\ProjetoSupllyChain\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
     },
     {
-      "Id": "C:\\SupplyChain\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "Id": "C:\\SupplyChain v4\\ProjetoSupllyChain\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
     },
     {
-      "Id": "C:\\SupplyChain\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "Id": "C:\\SupplyChain v4\\ProjetoSupllyChain\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
     },
     {
-      "Id": "C:\\SupplyChain\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "Id": "C:\\SupplyChain v4\\ProjetoSupllyChain\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
     },
     {
-      "Id": "C:\\SupplyChain\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "Id": "C:\\SupplyChain v4\\ProjetoSupllyChain\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
     },
     {
-      "Id": "C:\\SupplyChain\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "Id": "C:\\SupplyChain v4\\ProjetoSupllyChain\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
     },
     {
-      "Id": "C:\\SupplyChain\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "Id": "C:\\SupplyChain v4\\ProjetoSupllyChain\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
     },
     {
-      "Id": "C:\\SupplyChain\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "Id": "C:\\SupplyChain v4\\ProjetoSupllyChain\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
     },
     {
-      "Id": "C:\\SupplyChain\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "Id": "C:\\SupplyChain v4\\ProjetoSupllyChain\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
     },
     {
-      "Id": "C:\\SupplyChain\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "Id": "C:\\SupplyChain v4\\ProjetoSupllyChain\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
     },
     {
-      "Id": "C:\\SupplyChain\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "Id": "C:\\SupplyChain v4\\ProjetoSupllyChain\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
     },
     {
-      "Id": "C:\\SupplyChain\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "Id": "C:\\SupplyChain v4\\ProjetoSupllyChain\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
-      "Id": "C:\\SupplyChain\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "Id": "C:\\SupplyChain v4\\ProjetoSupllyChain\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
     },
     {
-      "Id": "C:\\SupplyChain\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "Id": "C:\\SupplyChain v4\\ProjetoSupllyChain\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
     },
     {
-      "Id": "C:\\SupplyChain\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "Id": "C:\\SupplyChain v4\\ProjetoSupllyChain\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
     },
     {
-      "Id": "C:\\SupplyChain\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "Id": "C:\\SupplyChain v4\\ProjetoSupllyChain\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
     },
     {
-      "Id": "C:\\SupplyChain\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "Id": "C:\\SupplyChain v4\\ProjetoSupllyChain\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
     {
-      "Id": "C:\\SupplyChain\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "Id": "C:\\SupplyChain v4\\ProjetoSupllyChain\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Id": "C:\\SupplyChain\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "Id": "C:\\SupplyChain v4\\ProjetoSupllyChain\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Id": "C:\\SupplyChain\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "Id": "C:\\SupplyChain v4\\ProjetoSupllyChain\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Id": "C:\\SupplyChain\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "Id": "C:\\SupplyChain v4\\ProjetoSupllyChain\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
     },
     {
-      "Id": "C:\\SupplyChain\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "Id": "C:\\SupplyChain v4\\ProjetoSupllyChain\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
     },
     {
-      "Id": "C:\\SupplyChain\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "Id": "C:\\SupplyChain v4\\ProjetoSupllyChain\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
     },
     {
-      "Id": "C:\\SupplyChain\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "Id": "C:\\SupplyChain v4\\ProjetoSupllyChain\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
     },
     {
-      "Id": "C:\\SupplyChain\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "Id": "C:\\SupplyChain v4\\ProjetoSupllyChain\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
-      "Id": "C:\\SupplyChain\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "Id": "C:\\SupplyChain v4\\ProjetoSupllyChain\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
     },
     {
-      "Id": "C:\\SupplyChain\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "Id": "C:\\SupplyChain v4\\ProjetoSupllyChain\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
-      "Id": "C:\\SupplyChain\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "Id": "C:\\SupplyChain v4\\ProjetoSupllyChain\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
-      "Id": "C:\\SupplyChain\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Id": "C:\\SupplyChain v4\\ProjetoSupllyChain\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
     },
     {
-      "Id": "C:\\SupplyChain\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "Id": "C:\\SupplyChain v4\\ProjetoSupllyChain\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
-      "Id": "C:\\SupplyChain\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "Id": "C:\\SupplyChain v4\\ProjetoSupllyChain\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Id": "C:\\SupplyChain\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "Id": "C:\\SupplyChain v4\\ProjetoSupllyChain\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
     },
     {
-      "Id": "C:\\SupplyChain\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "Id": "C:\\SupplyChain v4\\ProjetoSupllyChain\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
-      "Id": "C:\\SupplyChain\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "Id": "C:\\SupplyChain v4\\ProjetoSupllyChain\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
-      "Id": "C:\\SupplyChain\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "Id": "C:\\SupplyChain v4\\ProjetoSupllyChain\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
-      "Id": "C:\\SupplyChain\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "Id": "C:\\SupplyChain v4\\ProjetoSupllyChain\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
-      "Id": "C:\\SupplyChain\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "Id": "C:\\SupplyChain v4\\ProjetoSupllyChain\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
     },
     {
-      "Id": "C:\\SupplyChain\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "Id": "C:\\SupplyChain v4\\ProjetoSupllyChain\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
     },
     {
-      "Id": "C:\\SupplyChain\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "Id": "C:\\SupplyChain v4\\ProjetoSupllyChain\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-      "Id": "C:\\SupplyChain\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "Id": "C:\\SupplyChain v4\\ProjetoSupllyChain\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
-      "Id": "C:\\SupplyChain\\wwwroot\\wkhtmltopdf\\.azure-pipelines.yml",
+      "Id": "C:\\SupplyChain v4\\ProjetoSupllyChain\\wwwroot\\wkhtmltopdf\\.azure-pipelines.yml",
       "PackagePath": "staticwebassets\\wkhtmltopdf\\.azure-pipelines.yml"
     },
     {
-      "Id": "C:\\SupplyChain\\wwwroot\\wkhtmltopdf\\.gitignore",
+      "Id": "C:\\SupplyChain v4\\ProjetoSupllyChain\\wwwroot\\wkhtmltopdf\\.gitignore",
       "PackagePath": "staticwebassets\\wkhtmltopdf\\.gitignore"
     },
     {
-      "Id": "C:\\SupplyChain\\wwwroot\\wkhtmltopdf\\README.md",
+      "Id": "C:\\SupplyChain v4\\ProjetoSupllyChain\\wwwroot\\wkhtmltopdf\\README.md",
       "PackagePath": "staticwebassets\\wkhtmltopdf\\README.md"
     },
     {
-      "Id": "C:\\SupplyChain\\wwwroot\\wkhtmltopdf\\after_compile\\amazonlinux2_lambda.sh",
+      "Id": "C:\\SupplyChain v4\\ProjetoSupllyChain\\wwwroot\\wkhtmltopdf\\after_compile\\amazonlinux2_lambda.sh",
       "PackagePath": "staticwebassets\\wkhtmltopdf\\after_compile\\amazonlinux2_lambda.sh"
     },
     {
-      "Id": "C:\\SupplyChain\\wwwroot\\wkhtmltopdf\\build",
+      "Id": "C:\\SupplyChain v4\\ProjetoSupllyChain\\wwwroot\\wkhtmltopdf\\build",
       "PackagePath": "staticwebassets\\wkhtmltopdf"
     },
     {
-      "Id": "C:\\SupplyChain\\wwwroot\\wkhtmltopdf\\build.yml",
+      "Id": "C:\\SupplyChain v4\\ProjetoSupllyChain\\wwwroot\\wkhtmltopdf\\build.yml",
       "PackagePath": "staticwebassets\\wkhtmltopdf\\build.yml"
     },
     {
-      "Id": "C:\\SupplyChain\\wwwroot\\wkhtmltopdf\\conanfile.txt",
+      "Id": "C:\\SupplyChain v4\\ProjetoSupllyChain\\wwwroot\\wkhtmltopdf\\conanfile.txt",
       "PackagePath": "staticwebassets\\wkhtmltopdf\\conanfile.txt"
     },
     {
-      "Id": "C:\\SupplyChain\\wwwroot\\wkhtmltopdf\\docker\\Dockerfile.archlinux",
+      "Id": "C:\\SupplyChain v4\\ProjetoSupllyChain\\wwwroot\\wkhtmltopdf\\docker\\Dockerfile.archlinux",
       "PackagePath": "staticwebassets\\wkhtmltopdf\\docker\\Dockerfile.archlinux"
     },
     {
-      "Id": "C:\\SupplyChain\\wwwroot\\wkhtmltopdf\\docker\\Dockerfile.centos",
+      "Id": "C:\\SupplyChain v4\\ProjetoSupllyChain\\wwwroot\\wkhtmltopdf\\docker\\Dockerfile.centos",
       "PackagePath": "staticwebassets\\wkhtmltopdf\\docker\\Dockerfile.centos"
     },
     {
-      "Id": "C:\\SupplyChain\\wwwroot\\wkhtmltopdf\\docker\\Dockerfile.debian",
+      "Id": "C:\\SupplyChain v4\\ProjetoSupllyChain\\wwwroot\\wkhtmltopdf\\docker\\Dockerfile.debian",
       "PackagePath": "staticwebassets\\wkhtmltopdf\\docker\\Dockerfile.debian"
     },
     {
-      "Id": "C:\\SupplyChain\\wwwroot\\wkhtmltopdf\\docker\\Dockerfile.fpm",
+      "Id": "C:\\SupplyChain v4\\ProjetoSupllyChain\\wwwroot\\wkhtmltopdf\\docker\\Dockerfile.fpm",
       "PackagePath": "staticwebassets\\wkhtmltopdf\\docker\\Dockerfile.fpm"
     },
     {
-      "Id": "C:\\SupplyChain\\wwwroot\\wkhtmltopdf\\docker\\Dockerfile.mxe",
+      "Id": "C:\\SupplyChain v4\\ProjetoSupllyChain\\wwwroot\\wkhtmltopdf\\docker\\Dockerfile.mxe",
       "PackagePath": "staticwebassets\\wkhtmltopdf\\docker\\Dockerfile.mxe"
     },
     {
-      "Id": "C:\\SupplyChain\\wwwroot\\wkhtmltopdf\\docker\\Dockerfile.opensuse",
+      "Id": "C:\\SupplyChain v4\\ProjetoSupllyChain\\wwwroot\\wkhtmltopdf\\docker\\Dockerfile.opensuse",
       "PackagePath": "staticwebassets\\wkhtmltopdf\\docker\\Dockerfile.opensuse"
     },
     {
-      "Id": "C:\\SupplyChain\\wwwroot\\wkhtmltopdf\\vagrant\\Vagrantfile",
+      "Id": "C:\\SupplyChain v4\\ProjetoSupllyChain\\wwwroot\\wkhtmltopdf\\vagrant\\Vagrantfile",
       "PackagePath": "staticwebassets\\wkhtmltopdf\\vagrant"
     },
     {
-      "Id": "C:\\SupplyChain\\wwwroot\\wkhtmltopdf\\vagrant\\__init__.py",
+      "Id": "C:\\SupplyChain v4\\ProjetoSupllyChain\\wwwroot\\wkhtmltopdf\\vagrant\\__init__.py",
       "PackagePath": "staticwebassets\\wkhtmltopdf\\vagrant\\__init__.py"
     },
     {
-      "Id": "C:\\SupplyChain\\wwwroot\\wkhtmltopdf\\vagrant\\macos.py",
+      "Id": "C:\\SupplyChain v4\\ProjetoSupllyChain\\wwwroot\\wkhtmltopdf\\vagrant\\macos.py",
       "PackagePath": "staticwebassets\\wkhtmltopdf\\vagrant\\macos.py"
     },
     {
-      "Id": "C:\\SupplyChain\\wwwroot\\wkhtmltopdf\\vagrant\\windows.py",
+      "Id": "C:\\SupplyChain v4\\ProjetoSupllyChain\\wwwroot\\wkhtmltopdf\\vagrant\\windows.py",
       "PackagePath": "staticwebassets\\wkhtmltopdf\\vagrant\\windows.py"
     },
     {
-      "Id": "C:\\SupplyChain\\wwwroot\\wkhtmltopdf\\vagrant\\wkhtmltox.nsi",
+      "Id": "C:\\SupplyChain v4\\ProjetoSupllyChain\\wwwroot\\wkhtmltopdf\\vagrant\\wkhtmltox.nsi",
       "PackagePath": "staticwebassets\\wkhtmltopdf\\vagrant\\wkhtmltox.nsi"
     },
     {

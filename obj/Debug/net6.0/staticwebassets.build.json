@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "DYXqh6Eed1L9GHkztY5wa4mBy43Xo2uCIpcURNTbV98=",
+  "Hash": "PJe73uybBNVefwkvdqVnEANSTQGE2mt5UXimoQ7lP24=",
   "Source": "SupplyChain",
   "BasePath": "_content/SupplyChain",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "SupplyChain\\wwwroot",
       "Source": "SupplyChain",
-      "ContentRoot": "C:\\SupplyChain\\wwwroot\\",
+      "ContentRoot": "C:\\SupplyChain v4\\ProjetoSupllyChain\\wwwroot\\",
       "BasePath": "_content/SupplyChain",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "C:\\SupplyChain\\obj\\Debug\\net6.0\\scopedcss\\bundle\\SupplyChain.styles.css",
+      "Identity": "C:\\SupplyChain v4\\ProjetoSupllyChain\\obj\\Debug\\net6.0\\scopedcss\\bundle\\SupplyChain.styles.css",
       "SourceId": "SupplyChain",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\SupplyChain\\obj\\Debug\\net6.0\\scopedcss\\bundle\\",
+      "ContentRoot": "C:\\SupplyChain v4\\ProjetoSupllyChain\\obj\\Debug\\net6.0\\scopedcss\\bundle\\",
       "BasePath": "_content/SupplyChain",
       "RelativePath": "SupplyChain.styles.css",
       "AssetKind": "All",
@@ -31,13 +31,13 @@
       "AssetTraitValue": "ApplicationBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\SupplyChain\\obj\\Debug\\net6.0\\scopedcss\\bundle\\SupplyChain.styles.css"
+      "OriginalItemSpec": "C:\\SupplyChain v4\\ProjetoSupllyChain\\obj\\Debug\\net6.0\\scopedcss\\bundle\\SupplyChain.styles.css"
     },
     {
-      "Identity": "C:\\SupplyChain\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\SupplyChain.bundle.scp.css",
+      "Identity": "C:\\SupplyChain v4\\ProjetoSupllyChain\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\SupplyChain.bundle.scp.css",
       "SourceId": "SupplyChain",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\SupplyChain\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\",
+      "ContentRoot": "C:\\SupplyChain v4\\ProjetoSupllyChain\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\",
       "BasePath": "_content/SupplyChain",
       "RelativePath": "SupplyChain.bundle.scp.css",
       "AssetKind": "All",
@@ -48,13 +48,13 @@
       "AssetTraitValue": "ProjectBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\SupplyChain\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\SupplyChain.bundle.scp.css"
+      "OriginalItemSpec": "C:\\SupplyChain v4\\ProjetoSupllyChain\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\SupplyChain.bundle.scp.css"
     },
     {
-      "Identity": "C:\\SupplyChain\\wwwroot\\assets\\demo\\chart-area-demo.js",
+      "Identity": "C:\\SupplyChain v4\\ProjetoSupllyChain\\wwwroot\\assets\\demo\\chart-area-demo.js",
       "SourceId": "SupplyChain",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\SupplyChain\\wwwroot\\",
+      "ContentRoot": "C:\\SupplyChain v4\\ProjetoSupllyChain\\wwwroot\\",
       "BasePath": "_content/SupplyChain",
       "RelativePath": "assets/demo/chart-area-demo.js",
       "AssetKind": "All",
@@ -68,10 +68,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\demo\\chart-area-demo.js"
     },
     {
-      "Identity": "C:\\SupplyChain\\wwwroot\\assets\\demo\\chart-bar-demo.js",
+      "Identity": "C:\\SupplyChain v4\\ProjetoSupllyChain\\wwwroot\\assets\\demo\\chart-bar-demo.js",
       "SourceId": "SupplyChain",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\SupplyChain\\wwwroot\\",
+      "ContentRoot": "C:\\SupplyChain v4\\ProjetoSupllyChain\\wwwroot\\",
       "BasePath": "_content/SupplyChain",
       "RelativePath": "assets/demo/chart-bar-demo.js",
       "AssetKind": "All",
@@ -85,10 +85,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\demo\\chart-bar-demo.js"
     },
     {
-      "Identity": "C:\\SupplyChain\\wwwroot\\assets\\demo\\chart-pie-demo.js",
+      "Identity": "C:\\SupplyChain v4\\ProjetoSupllyChain\\wwwroot\\assets\\demo\\chart-pie-demo.js",
       "SourceId": "SupplyChain",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\SupplyChain\\wwwroot\\",
+      "ContentRoot": "C:\\SupplyChain v4\\ProjetoSupllyChain\\wwwroot\\",
       "BasePath": "_content/SupplyChain",
       "RelativePath": "assets/demo/chart-pie-demo.js",
       "AssetKind": "All",
@@ -102,10 +102,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\demo\\chart-pie-demo.js"
     },
     {
-      "Identity": "C:\\SupplyChain\\wwwroot\\assets\\demo\\datatables-demo.js",
+      "Identity": "C:\\SupplyChain v4\\ProjetoSupllyChain\\wwwroot\\assets\\demo\\datatables-demo.js",
       "SourceId": "SupplyChain",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\SupplyChain\\wwwroot\\",
+      "ContentRoot": "C:\\SupplyChain v4\\ProjetoSupllyChain\\wwwroot\\",
       "BasePath": "_content/SupplyChain",
       "RelativePath": "assets/demo/datatables-demo.js",
       "AssetKind": "All",
@@ -119,10 +119,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\demo\\datatables-demo.js"
     },
     {
-      "Identity": "C:\\SupplyChain\\wwwroot\\assets\\img\\error-404-monochrome.svg",
+      "Identity": "C:\\SupplyChain v4\\ProjetoSupllyChain\\wwwroot\\assets\\img\\error-404-monochrome.svg",
       "SourceId": "SupplyChain",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\SupplyChain\\wwwroot\\",
+      "ContentRoot": "C:\\SupplyChain v4\\ProjetoSupllyChain\\wwwroot\\",
       "BasePath": "_content/SupplyChain",
       "RelativePath": "assets/img/error-404-monochrome.svg",
       "AssetKind": "All",
@@ -136,10 +136,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\error-404-monochrome.svg"
     },
     {
-      "Identity": "C:\\SupplyChain\\wwwroot\\css\\site.css",
+      "Identity": "C:\\SupplyChain v4\\ProjetoSupllyChain\\wwwroot\\css\\site.css",
       "SourceId": "SupplyChain",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\SupplyChain\\wwwroot\\",
+      "ContentRoot": "C:\\SupplyChain v4\\ProjetoSupllyChain\\wwwroot\\",
       "BasePath": "_content/SupplyChain",
       "RelativePath": "css/site.css",
       "AssetKind": "All",
@@ -153,10 +153,10 @@
       "OriginalItemSpec": "wwwroot\\css\\site.css"
     },
     {
-      "Identity": "C:\\SupplyChain\\wwwroot\\css\\styles.css",
+      "Identity": "C:\\SupplyChain v4\\ProjetoSupllyChain\\wwwroot\\css\\styles.css",
       "SourceId": "SupplyChain",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\SupplyChain\\wwwroot\\",
+      "ContentRoot": "C:\\SupplyChain v4\\ProjetoSupllyChain\\wwwroot\\",
       "BasePath": "_content/SupplyChain",
       "RelativePath": "css/styles.css",
       "AssetKind": "All",
@@ -170,10 +170,10 @@
       "OriginalItemSpec": "wwwroot\\css\\styles.css"
     },
     {
-      "Identity": "C:\\SupplyChain\\wwwroot\\favicon.ico",
+      "Identity": "C:\\SupplyChain v4\\ProjetoSupllyChain\\wwwroot\\favicon.ico",
       "SourceId": "SupplyChain",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\SupplyChain\\wwwroot\\",
+      "ContentRoot": "C:\\SupplyChain v4\\ProjetoSupllyChain\\wwwroot\\",
       "BasePath": "_content/SupplyChain",
       "RelativePath": "favicon.ico",
       "AssetKind": "All",
@@ -187,10 +187,10 @@
       "OriginalItemSpec": "wwwroot\\favicon.ico"
     },
     {
-      "Identity": "C:\\SupplyChain\\wwwroot\\images\\artbreeder-image-2x.png",
+      "Identity": "C:\\SupplyChain v4\\ProjetoSupllyChain\\wwwroot\\images\\artbreeder-image-2x.png",
       "SourceId": "SupplyChain",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\SupplyChain\\wwwroot\\",
+      "ContentRoot": "C:\\SupplyChain v4\\ProjetoSupllyChain\\wwwroot\\",
       "BasePath": "_content/SupplyChain",
       "RelativePath": "images/artbreeder-image-2x.png",
       "AssetKind": "All",
@@ -204,10 +204,10 @@
       "OriginalItemSpec": "wwwroot\\images\\artbreeder-image-2x.png"
     },
     {
-      "Identity": "C:\\SupplyChain\\wwwroot\\images\\logo.png",
+      "Identity": "C:\\SupplyChain v4\\ProjetoSupllyChain\\wwwroot\\images\\logo.png",
       "SourceId": "SupplyChain",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\SupplyChain\\wwwroot\\",
+      "ContentRoot": "C:\\SupplyChain v4\\ProjetoSupllyChain\\wwwroot\\",
       "BasePath": "_content/SupplyChain",
       "RelativePath": "images/logo.png",
       "AssetKind": "All",
@@ -221,10 +221,10 @@
       "OriginalItemSpec": "wwwroot\\images\\logo.png"
     },
     {
-      "Identity": "C:\\SupplyChain\\wwwroot\\js\\datatables-simple-demo.js",
+      "Identity": "C:\\SupplyChain v4\\ProjetoSupllyChain\\wwwroot\\js\\datatables-simple-demo.js",
       "SourceId": "SupplyChain",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\SupplyChain\\wwwroot\\",
+      "ContentRoot": "C:\\SupplyChain v4\\ProjetoSupllyChain\\wwwroot\\",
       "BasePath": "_content/SupplyChain",
       "RelativePath": "js/datatables-simple-demo.js",
       "AssetKind": "All",
@@ -238,10 +238,10 @@
       "OriginalItemSpec": "wwwroot\\js\\datatables-simple-demo.js"
     },
     {
-      "Identity": "C:\\SupplyChain\\wwwroot\\js\\relatorio.js",
+      "Identity": "C:\\SupplyChain v4\\ProjetoSupllyChain\\wwwroot\\js\\relatorio.js",
       "SourceId": "SupplyChain",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\SupplyChain\\wwwroot\\",
+      "ContentRoot": "C:\\SupplyChain v4\\ProjetoSupllyChain\\wwwroot\\",
       "BasePath": "_content/SupplyChain",
       "RelativePath": "js/relatorio.js",
       "AssetKind": "All",
@@ -255,10 +255,10 @@
       "OriginalItemSpec": "wwwroot\\js\\relatorio.js"
     },
     {
-      "Identity": "C:\\SupplyChain\\wwwroot\\js\\scripts.js",
+      "Identity": "C:\\SupplyChain v4\\ProjetoSupllyChain\\wwwroot\\js\\scripts.js",
       "SourceId": "SupplyChain",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\SupplyChain\\wwwroot\\",
+      "ContentRoot": "C:\\SupplyChain v4\\ProjetoSupllyChain\\wwwroot\\",
       "BasePath": "_content/SupplyChain",
       "RelativePath": "js/scripts.js",
       "AssetKind": "All",
@@ -272,10 +272,10 @@
       "OriginalItemSpec": "wwwroot\\js\\scripts.js"
     },
     {
-      "Identity": "C:\\SupplyChain\\wwwroot\\js\\site.js",
+      "Identity": "C:\\SupplyChain v4\\ProjetoSupllyChain\\wwwroot\\js\\site.js",
       "SourceId": "SupplyChain",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\SupplyChain\\wwwroot\\",
+      "ContentRoot": "C:\\SupplyChain v4\\ProjetoSupllyChain\\wwwroot\\",
       "BasePath": "_content/SupplyChain",
       "RelativePath": "js/site.js",
       "AssetKind": "All",
@@ -289,10 +289,10 @@
       "OriginalItemSpec": "wwwroot\\js\\site.js"
     },
     {
-      "Identity": "C:\\SupplyChain\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "Identity": "C:\\SupplyChain v4\\ProjetoSupllyChain\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "SourceId": "SupplyChain",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\SupplyChain\\wwwroot\\",
+      "ContentRoot": "C:\\SupplyChain v4\\ProjetoSupllyChain\\wwwroot\\",
       "BasePath": "_content/SupplyChain",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css",
       "AssetKind": "All",
@@ -306,10 +306,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
     {
-      "Identity": "C:\\SupplyChain\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "Identity": "C:\\SupplyChain v4\\ProjetoSupllyChain\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "SourceId": "SupplyChain",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\SupplyChain\\wwwroot\\",
+      "ContentRoot": "C:\\SupplyChain v4\\ProjetoSupllyChain\\wwwroot\\",
       "BasePath": "_content/SupplyChain",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css.map",
       "AssetKind": "All",
@@ -323,10 +323,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
     },
     {
-      "Identity": "C:\\SupplyChain\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "Identity": "C:\\SupplyChain v4\\ProjetoSupllyChain\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "SourceId": "SupplyChain",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\SupplyChain\\wwwroot\\",
+      "ContentRoot": "C:\\SupplyChain v4\\ProjetoSupllyChain\\wwwroot\\",
       "BasePath": "_content/SupplyChain",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css",
       "AssetKind": "All",
@@ -340,10 +340,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
     },
     {
-      "Identity": "C:\\SupplyChain\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "Identity": "C:\\SupplyChain v4\\ProjetoSupllyChain\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "SourceId": "SupplyChain",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\SupplyChain\\wwwroot\\",
+      "ContentRoot": "C:\\SupplyChain v4\\ProjetoSupllyChain\\wwwroot\\",
       "BasePath": "_content/SupplyChain",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
       "AssetKind": "All",
@@ -357,10 +357,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Identity": "C:\\SupplyChain\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "Identity": "C:\\SupplyChain v4\\ProjetoSupllyChain\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "SourceId": "SupplyChain",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\SupplyChain\\wwwroot\\",
+      "ContentRoot": "C:\\SupplyChain v4\\ProjetoSupllyChain\\wwwroot\\",
       "BasePath": "_content/SupplyChain",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css",
       "AssetKind": "All",
@@ -374,10 +374,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
     },
     {
-      "Identity": "C:\\SupplyChain\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "Identity": "C:\\SupplyChain v4\\ProjetoSupllyChain\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "SourceId": "SupplyChain",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\SupplyChain\\wwwroot\\",
+      "ContentRoot": "C:\\SupplyChain v4\\ProjetoSupllyChain\\wwwroot\\",
       "BasePath": "_content/SupplyChain",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map",
       "AssetKind": "All",
@@ -391,10 +391,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
     },
     {
-      "Identity": "C:\\SupplyChain\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "Identity": "C:\\SupplyChain v4\\ProjetoSupllyChain\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "SourceId": "SupplyChain",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\SupplyChain\\wwwroot\\",
+      "ContentRoot": "C:\\SupplyChain v4\\ProjetoSupllyChain\\wwwroot\\",
       "BasePath": "_content/SupplyChain",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css",
       "AssetKind": "All",
@@ -408,10 +408,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
     },
     {
-      "Identity": "C:\\SupplyChain\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "Identity": "C:\\SupplyChain v4\\ProjetoSupllyChain\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "SourceId": "SupplyChain",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\SupplyChain\\wwwroot\\",
+      "ContentRoot": "C:\\SupplyChain v4\\ProjetoSupllyChain\\wwwroot\\",
       "BasePath": "_content/SupplyChain",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map",
       "AssetKind": "All",
@@ -425,10 +425,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\SupplyChain\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "Identity": "C:\\SupplyChain v4\\ProjetoSupllyChain\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "SourceId": "SupplyChain",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\SupplyChain\\wwwroot\\",
+      "ContentRoot": "C:\\SupplyChain v4\\ProjetoSupllyChain\\wwwroot\\",
       "BasePath": "_content/SupplyChain",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css",
       "AssetKind": "All",
@@ -442,10 +442,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
     },
     {
-      "Identity": "C:\\SupplyChain\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "Identity": "C:\\SupplyChain v4\\ProjetoSupllyChain\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "SourceId": "SupplyChain",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\SupplyChain\\wwwroot\\",
+      "ContentRoot": "C:\\SupplyChain v4\\ProjetoSupllyChain\\wwwroot\\",
       "BasePath": "_content/SupplyChain",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css.map",
       "AssetKind": "All",
@@ -459,10 +459,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Identity": "C:\\SupplyChain\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "Identity": "C:\\SupplyChain v4\\ProjetoSupllyChain\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "SourceId": "SupplyChain",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\SupplyChain\\wwwroot\\",
+      "ContentRoot": "C:\\SupplyChain v4\\ProjetoSupllyChain\\wwwroot\\",
       "BasePath": "_content/SupplyChain",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css",
       "AssetKind": "All",
@@ -476,10 +476,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Identity": "C:\\SupplyChain\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "Identity": "C:\\SupplyChain v4\\ProjetoSupllyChain\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "SourceId": "SupplyChain",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\SupplyChain\\wwwroot\\",
+      "ContentRoot": "C:\\SupplyChain v4\\ProjetoSupllyChain\\wwwroot\\",
       "BasePath": "_content/SupplyChain",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
       "AssetKind": "All",
@@ -493,10 +493,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
     },
     {
-      "Identity": "C:\\SupplyChain\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "Identity": "C:\\SupplyChain v4\\ProjetoSupllyChain\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "SourceId": "SupplyChain",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\SupplyChain\\wwwroot\\",
+      "ContentRoot": "C:\\SupplyChain v4\\ProjetoSupllyChain\\wwwroot\\",
       "BasePath": "_content/SupplyChain",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css",
       "AssetKind": "All",
@@ -510,10 +510,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
     },
     {
-      "Identity": "C:\\SupplyChain\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "Identity": "C:\\SupplyChain v4\\ProjetoSupllyChain\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "SourceId": "SupplyChain",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\SupplyChain\\wwwroot\\",
+      "ContentRoot": "C:\\SupplyChain v4\\ProjetoSupllyChain\\wwwroot\\",
       "BasePath": "_content/SupplyChain",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map",
       "AssetKind": "All",
@@ -527,10 +527,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
     },
     {
-      "Identity": "C:\\SupplyChain\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "Identity": "C:\\SupplyChain v4\\ProjetoSupllyChain\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "SourceId": "SupplyChain",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\SupplyChain\\wwwroot\\",
+      "ContentRoot": "C:\\SupplyChain v4\\ProjetoSupllyChain\\wwwroot\\",
       "BasePath": "_content/SupplyChain",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css",
       "AssetKind": "All",
@@ -544,10 +544,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
     },
     {
-      "Identity": "C:\\SupplyChain\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "Identity": "C:\\SupplyChain v4\\ProjetoSupllyChain\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "SourceId": "SupplyChain",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\SupplyChain\\wwwroot\\",
+      "ContentRoot": "C:\\SupplyChain v4\\ProjetoSupllyChain\\wwwroot\\",
       "BasePath": "_content/SupplyChain",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map",
       "AssetKind": "All",
@@ -561,10 +561,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\SupplyChain\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "Identity": "C:\\SupplyChain v4\\ProjetoSupllyChain\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "SourceId": "SupplyChain",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\SupplyChain\\wwwroot\\",
+      "ContentRoot": "C:\\SupplyChain v4\\ProjetoSupllyChain\\wwwroot\\",
       "BasePath": "_content/SupplyChain",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css",
       "AssetKind": "All",
@@ -578,10 +578,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
     },
     {
-      "Identity": "C:\\SupplyChain\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "Identity": "C:\\SupplyChain v4\\ProjetoSupllyChain\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "SourceId": "SupplyChain",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\SupplyChain\\wwwroot\\",
+      "ContentRoot": "C:\\SupplyChain v4\\ProjetoSupllyChain\\wwwroot\\",
       "BasePath": "_content/SupplyChain",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css.map",
       "AssetKind": "All",
@@ -595,10 +595,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
     },
     {
-      "Identity": "C:\\SupplyChain\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "Identity": "C:\\SupplyChain v4\\ProjetoSupllyChain\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "SourceId": "SupplyChain",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\SupplyChain\\wwwroot\\",
+      "ContentRoot": "C:\\SupplyChain v4\\ProjetoSupllyChain\\wwwroot\\",
       "BasePath": "_content/SupplyChain",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css",
       "AssetKind": "All",
@@ -612,10 +612,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
     },
     {
-      "Identity": "C:\\SupplyChain\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "Identity": "C:\\SupplyChain v4\\ProjetoSupllyChain\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "SourceId": "SupplyChain",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\SupplyChain\\wwwroot\\",
+      "ContentRoot": "C:\\SupplyChain v4\\ProjetoSupllyChain\\wwwroot\\",
       "BasePath": "_content/SupplyChain",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css.map",
       "AssetKind": "All",
@@ -629,10 +629,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
     },
     {
-      "Identity": "C:\\SupplyChain\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "Identity": "C:\\SupplyChain v4\\ProjetoSupllyChain\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "SourceId": "SupplyChain",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\SupplyChain\\wwwroot\\",
+      "ContentRoot": "C:\\SupplyChain v4\\ProjetoSupllyChain\\wwwroot\\",
       "BasePath": "_content/SupplyChain",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css",
       "AssetKind": "All",
@@ -646,10 +646,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
     },
     {
-      "Identity": "C:\\SupplyChain\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "Identity": "C:\\SupplyChain v4\\ProjetoSupllyChain\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "SourceId": "SupplyChain",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\SupplyChain\\wwwroot\\",
+      "ContentRoot": "C:\\SupplyChain v4\\ProjetoSupllyChain\\wwwroot\\",
       "BasePath": "_content/SupplyChain",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map",
       "AssetKind": "All",
@@ -663,10 +663,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
     },
     {
-      "Identity": "C:\\SupplyChain\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "Identity": "C:\\SupplyChain v4\\ProjetoSupllyChain\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "SourceId": "SupplyChain",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\SupplyChain\\wwwroot\\",
+      "ContentRoot": "C:\\SupplyChain v4\\ProjetoSupllyChain\\wwwroot\\",
       "BasePath": "_content/SupplyChain",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css",
       "AssetKind": "All",
@@ -680,10 +680,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
     },
     {
-      "Identity": "C:\\SupplyChain\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "Identity": "C:\\SupplyChain v4\\ProjetoSupllyChain\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "SourceId": "SupplyChain",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\SupplyChain\\wwwroot\\",
+      "ContentRoot": "C:\\SupplyChain v4\\ProjetoSupllyChain\\wwwroot\\",
       "BasePath": "_content/SupplyChain",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map",
       "AssetKind": "All",
@@ -697,10 +697,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\SupplyChain\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "Identity": "C:\\SupplyChain v4\\ProjetoSupllyChain\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "SourceId": "SupplyChain",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\SupplyChain\\wwwroot\\",
+      "ContentRoot": "C:\\SupplyChain v4\\ProjetoSupllyChain\\wwwroot\\",
       "BasePath": "_content/SupplyChain",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css",
       "AssetKind": "All",
@@ -714,10 +714,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css"
     },
     {
-      "Identity": "C:\\SupplyChain\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "Identity": "C:\\SupplyChain v4\\ProjetoSupllyChain\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "SourceId": "SupplyChain",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\SupplyChain\\wwwroot\\",
+      "ContentRoot": "C:\\SupplyChain v4\\ProjetoSupllyChain\\wwwroot\\",
       "BasePath": "_content/SupplyChain",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css.map",
       "AssetKind": "All",
@@ -731,10 +731,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
     },
     {
-      "Identity": "C:\\SupplyChain\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "Identity": "C:\\SupplyChain v4\\ProjetoSupllyChain\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "SourceId": "SupplyChain",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\SupplyChain\\wwwroot\\",
+      "ContentRoot": "C:\\SupplyChain v4\\ProjetoSupllyChain\\wwwroot\\",
       "BasePath": "_content/SupplyChain",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css",
       "AssetKind": "All",
@@ -748,10 +748,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
     },
     {
-      "Identity": "C:\\SupplyChain\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "Identity": "C:\\SupplyChain v4\\ProjetoSupllyChain\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "SourceId": "SupplyChain",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\SupplyChain\\wwwroot\\",
+      "ContentRoot": "C:\\SupplyChain v4\\ProjetoSupllyChain\\wwwroot\\",
       "BasePath": "_content/SupplyChain",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css.map",
       "AssetKind": "All",
@@ -765,10 +765,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
-      "Identity": "C:\\SupplyChain\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "Identity": "C:\\SupplyChain v4\\ProjetoSupllyChain\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "SourceId": "SupplyChain",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\SupplyChain\\wwwroot\\",
+      "ContentRoot": "C:\\SupplyChain v4\\ProjetoSupllyChain\\wwwroot\\",
       "BasePath": "_content/SupplyChain",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css",
       "AssetKind": "All",
@@ -782,10 +782,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
     },
     {
-      "Identity": "C:\\SupplyChain\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "Identity": "C:\\SupplyChain v4\\ProjetoSupllyChain\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "SourceId": "SupplyChain",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\SupplyChain\\wwwroot\\",
+      "ContentRoot": "C:\\SupplyChain v4\\ProjetoSupllyChain\\wwwroot\\",
       "BasePath": "_content/SupplyChain",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css.map",
       "AssetKind": "All",
@@ -799,10 +799,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
     },
     {
-      "Identity": "C:\\SupplyChain\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "Identity": "C:\\SupplyChain v4\\ProjetoSupllyChain\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "SourceId": "SupplyChain",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\SupplyChain\\wwwroot\\",
+      "ContentRoot": "C:\\SupplyChain v4\\ProjetoSupllyChain\\wwwroot\\",
       "BasePath": "_content/SupplyChain",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css",
       "AssetKind": "All",
@@ -816,10 +816,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
     },
     {
-      "Identity": "C:\\SupplyChain\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "Identity": "C:\\SupplyChain v4\\ProjetoSupllyChain\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "SourceId": "SupplyChain",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\SupplyChain\\wwwroot\\",
+      "ContentRoot": "C:\\SupplyChain v4\\ProjetoSupllyChain\\wwwroot\\",
       "BasePath": "_content/SupplyChain",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css.map",
       "AssetKind": "All",
@@ -833,10 +833,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\SupplyChain\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "Identity": "C:\\SupplyChain v4\\ProjetoSupllyChain\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "SourceId": "SupplyChain",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\SupplyChain\\wwwroot\\",
+      "ContentRoot": "C:\\SupplyChain v4\\ProjetoSupllyChain\\wwwroot\\",
       "BasePath": "_content/SupplyChain",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js",
       "AssetKind": "All",
@@ -850,10 +850,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
     {
-      "Identity": "C:\\SupplyChain\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "Identity": "C:\\SupplyChain v4\\ProjetoSupllyChain\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "SourceId": "SupplyChain",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\SupplyChain\\wwwroot\\",
+      "ContentRoot": "C:\\SupplyChain v4\\ProjetoSupllyChain\\wwwroot\\",
       "BasePath": "_content/SupplyChain",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js.map",
       "AssetKind": "All",
@@ -867,10 +867,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Identity": "C:\\SupplyChain\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "Identity": "C:\\SupplyChain v4\\ProjetoSupllyChain\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "SourceId": "SupplyChain",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\SupplyChain\\wwwroot\\",
+      "ContentRoot": "C:\\SupplyChain v4\\ProjetoSupllyChain\\wwwroot\\",
       "BasePath": "_content/SupplyChain",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js",
       "AssetKind": "All",
@@ -884,10 +884,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Identity": "C:\\SupplyChain\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "Identity": "C:\\SupplyChain v4\\ProjetoSupllyChain\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "SourceId": "SupplyChain",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\SupplyChain\\wwwroot\\",
+      "ContentRoot": "C:\\SupplyChain v4\\ProjetoSupllyChain\\wwwroot\\",
       "BasePath": "_content/SupplyChain",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
       "AssetKind": "All",
@@ -901,10 +901,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Identity": "C:\\SupplyChain\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "Identity": "C:\\SupplyChain v4\\ProjetoSupllyChain\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "SourceId": "SupplyChain",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\SupplyChain\\wwwroot\\",
+      "ContentRoot": "C:\\SupplyChain v4\\ProjetoSupllyChain\\wwwroot\\",
       "BasePath": "_content/SupplyChain",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js",
       "AssetKind": "All",
@@ -918,10 +918,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
     },
     {
-      "Identity": "C:\\SupplyChain\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "Identity": "C:\\SupplyChain v4\\ProjetoSupllyChain\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "SourceId": "SupplyChain",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\SupplyChain\\wwwroot\\",
+      "ContentRoot": "C:\\SupplyChain v4\\ProjetoSupllyChain\\wwwroot\\",
       "BasePath": "_content/SupplyChain",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js.map",
       "AssetKind": "All",
@@ -935,10 +935,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
     },
     {
-      "Identity": "C:\\SupplyChain\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "Identity": "C:\\SupplyChain v4\\ProjetoSupllyChain\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "SourceId": "SupplyChain",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\SupplyChain\\wwwroot\\",
+      "ContentRoot": "C:\\SupplyChain v4\\ProjetoSupllyChain\\wwwroot\\",
       "BasePath": "_content/SupplyChain",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js",
       "AssetKind": "All",
@@ -952,10 +952,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
     },
     {
-      "Identity": "C:\\SupplyChain\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "Identity": "C:\\SupplyChain v4\\ProjetoSupllyChain\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "SourceId": "SupplyChain",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\SupplyChain\\wwwroot\\",
+      "ContentRoot": "C:\\SupplyChain v4\\ProjetoSupllyChain\\wwwroot\\",
       "BasePath": "_content/SupplyChain",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js.map",
       "AssetKind": "All",
@@ -969,10 +969,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
     },
     {
-      "Identity": "C:\\SupplyChain\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "Identity": "C:\\SupplyChain v4\\ProjetoSupllyChain\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "SourceId": "SupplyChain",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\SupplyChain\\wwwroot\\",
+      "ContentRoot": "C:\\SupplyChain v4\\ProjetoSupllyChain\\wwwroot\\",
       "BasePath": "_content/SupplyChain",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js",
       "AssetKind": "All",
@@ -986,10 +986,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
-      "Identity": "C:\\SupplyChain\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "Identity": "C:\\SupplyChain v4\\ProjetoSupllyChain\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "SourceId": "SupplyChain",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\SupplyChain\\wwwroot\\",
+      "ContentRoot": "C:\\SupplyChain v4\\ProjetoSupllyChain\\wwwroot\\",
       "BasePath": "_content/SupplyChain",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js.map",
       "AssetKind": "All",
@@ -1003,10 +1003,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
     },
     {
-      "Identity": "C:\\SupplyChain\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "Identity": "C:\\SupplyChain v4\\ProjetoSupllyChain\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "SourceId": "SupplyChain",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\SupplyChain\\wwwroot\\",
+      "ContentRoot": "C:\\SupplyChain v4\\ProjetoSupllyChain\\wwwroot\\",
       "BasePath": "_content/SupplyChain",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js",
       "AssetKind": "All",
@@ -1020,10 +1020,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
-      "Identity": "C:\\SupplyChain\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "Identity": "C:\\SupplyChain v4\\ProjetoSupllyChain\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "SourceId": "SupplyChain",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\SupplyChain\\wwwroot\\",
+      "ContentRoot": "C:\\SupplyChain v4\\ProjetoSupllyChain\\wwwroot\\",
       "BasePath": "_content/SupplyChain",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js.map",
       "AssetKind": "All",
@@ -1037,10 +1037,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
-      "Identity": "C:\\SupplyChain\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "Identity": "C:\\SupplyChain v4\\ProjetoSupllyChain\\wwwroot\\lib\\bootstrap\\LICENSE",
       "SourceId": "SupplyChain",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\SupplyChain\\wwwroot\\",
+      "ContentRoot": "C:\\SupplyChain v4\\ProjetoSupllyChain\\wwwroot\\",
       "BasePath": "_content/SupplyChain",
       "RelativePath": "lib/bootstrap/LICENSE",
       "AssetKind": "All",
@@ -1054,10 +1054,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\LICENSE"
     },
     {
-      "Identity": "C:\\SupplyChain\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "Identity": "C:\\SupplyChain v4\\ProjetoSupllyChain\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "SourceId": "SupplyChain",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\SupplyChain\\wwwroot\\",
+      "ContentRoot": "C:\\SupplyChain v4\\ProjetoSupllyChain\\wwwroot\\",
       "BasePath": "_content/SupplyChain",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
       "AssetKind": "All",
@@ -1071,10 +1071,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
-      "Identity": "C:\\SupplyChain\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "Identity": "C:\\SupplyChain v4\\ProjetoSupllyChain\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "SourceId": "SupplyChain",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\SupplyChain\\wwwroot\\",
+      "ContentRoot": "C:\\SupplyChain v4\\ProjetoSupllyChain\\wwwroot\\",
       "BasePath": "_content/SupplyChain",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
       "AssetKind": "All",
@@ -1088,10 +1088,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Identity": "C:\\SupplyChain\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Identity": "C:\\SupplyChain v4\\ProjetoSupllyChain\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "SourceId": "SupplyChain",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\SupplyChain\\wwwroot\\",
+      "ContentRoot": "C:\\SupplyChain v4\\ProjetoSupllyChain\\wwwroot\\",
       "BasePath": "_content/SupplyChain",
       "RelativePath": "lib/jquery-validation-unobtrusive/LICENSE.txt",
       "AssetKind": "All",
@@ -1105,10 +1105,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
     },
     {
-      "Identity": "C:\\SupplyChain\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "Identity": "C:\\SupplyChain v4\\ProjetoSupllyChain\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "SourceId": "SupplyChain",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\SupplyChain\\wwwroot\\",
+      "ContentRoot": "C:\\SupplyChain v4\\ProjetoSupllyChain\\wwwroot\\",
       "BasePath": "_content/SupplyChain",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.js",
       "AssetKind": "All",
@@ -1122,10 +1122,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
-      "Identity": "C:\\SupplyChain\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "Identity": "C:\\SupplyChain v4\\ProjetoSupllyChain\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "SourceId": "SupplyChain",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\SupplyChain\\wwwroot\\",
+      "ContentRoot": "C:\\SupplyChain v4\\ProjetoSupllyChain\\wwwroot\\",
       "BasePath": "_content/SupplyChain",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.min.js",
       "AssetKind": "All",
@@ -1139,10 +1139,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
-      "Identity": "C:\\SupplyChain\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "Identity": "C:\\SupplyChain v4\\ProjetoSupllyChain\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "SourceId": "SupplyChain",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\SupplyChain\\wwwroot\\",
+      "ContentRoot": "C:\\SupplyChain v4\\ProjetoSupllyChain\\wwwroot\\",
       "BasePath": "_content/SupplyChain",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.js",
       "AssetKind": "All",
@@ -1156,10 +1156,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
-      "Identity": "C:\\SupplyChain\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "Identity": "C:\\SupplyChain v4\\ProjetoSupllyChain\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "SourceId": "SupplyChain",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\SupplyChain\\wwwroot\\",
+      "ContentRoot": "C:\\SupplyChain v4\\ProjetoSupllyChain\\wwwroot\\",
       "BasePath": "_content/SupplyChain",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.min.js",
       "AssetKind": "All",
@@ -1173,10 +1173,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
-      "Identity": "C:\\SupplyChain\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "Identity": "C:\\SupplyChain v4\\ProjetoSupllyChain\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "SourceId": "SupplyChain",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\SupplyChain\\wwwroot\\",
+      "ContentRoot": "C:\\SupplyChain v4\\ProjetoSupllyChain\\wwwroot\\",
       "BasePath": "_content/SupplyChain",
       "RelativePath": "lib/jquery-validation/LICENSE.md",
       "AssetKind": "All",
@@ -1190,10 +1190,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\LICENSE.md"
     },
     {
-      "Identity": "C:\\SupplyChain\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "Identity": "C:\\SupplyChain v4\\ProjetoSupllyChain\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "SourceId": "SupplyChain",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\SupplyChain\\wwwroot\\",
+      "ContentRoot": "C:\\SupplyChain v4\\ProjetoSupllyChain\\wwwroot\\",
       "BasePath": "_content/SupplyChain",
       "RelativePath": "lib/jquery/dist/jquery.js",
       "AssetKind": "All",
@@ -1207,10 +1207,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.js"
     },
     {
-      "Identity": "C:\\SupplyChain\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "Identity": "C:\\SupplyChain v4\\ProjetoSupllyChain\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "SourceId": "SupplyChain",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\SupplyChain\\wwwroot\\",
+      "ContentRoot": "C:\\SupplyChain v4\\ProjetoSupllyChain\\wwwroot\\",
       "BasePath": "_content/SupplyChain",
       "RelativePath": "lib/jquery/dist/jquery.min.js",
       "AssetKind": "All",
@@ -1224,10 +1224,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-      "Identity": "C:\\SupplyChain\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "Identity": "C:\\SupplyChain v4\\ProjetoSupllyChain\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "SourceId": "SupplyChain",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\SupplyChain\\wwwroot\\",
+      "ContentRoot": "C:\\SupplyChain v4\\ProjetoSupllyChain\\wwwroot\\",
       "BasePath": "_content/SupplyChain",
       "RelativePath": "lib/jquery/dist/jquery.min.map",
       "AssetKind": "All",
@@ -1241,10 +1241,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
-      "Identity": "C:\\SupplyChain\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "Identity": "C:\\SupplyChain v4\\ProjetoSupllyChain\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "SourceId": "SupplyChain",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\SupplyChain\\wwwroot\\",
+      "ContentRoot": "C:\\SupplyChain v4\\ProjetoSupllyChain\\wwwroot\\",
       "BasePath": "_content/SupplyChain",
       "RelativePath": "lib/jquery/LICENSE.txt",
       "AssetKind": "All",
@@ -1258,10 +1258,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\LICENSE.txt"
     },
     {
-      "Identity": "C:\\SupplyChain\\wwwroot\\wkhtmltopdf\\.azure-pipelines.yml",
+      "Identity": "C:\\SupplyChain v4\\ProjetoSupllyChain\\wwwroot\\wkhtmltopdf\\.azure-pipelines.yml",
       "SourceId": "SupplyChain",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\SupplyChain\\wwwroot\\",
+      "ContentRoot": "C:\\SupplyChain v4\\ProjetoSupllyChain\\wwwroot\\",
       "BasePath": "_content/SupplyChain",
       "RelativePath": "wkhtmltopdf/.azure-pipelines.yml",
       "AssetKind": "All",
@@ -1275,10 +1275,10 @@
       "OriginalItemSpec": "wwwroot\\wkhtmltopdf\\.azure-pipelines.yml"
     },
     {
-      "Identity": "C:\\SupplyChain\\wwwroot\\wkhtmltopdf\\.gitignore",
+      "Identity": "C:\\SupplyChain v4\\ProjetoSupllyChain\\wwwroot\\wkhtmltopdf\\.gitignore",
       "SourceId": "SupplyChain",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\SupplyChain\\wwwroot\\",
+      "ContentRoot": "C:\\SupplyChain v4\\ProjetoSupllyChain\\wwwroot\\",
       "BasePath": "_content/SupplyChain",
       "RelativePath": "wkhtmltopdf/.gitignore",
       "AssetKind": "All",
@@ -1292,10 +1292,10 @@
       "OriginalItemSpec": "wwwroot\\wkhtmltopdf\\.gitignore"
     },
     {
-      "Identity": "C:\\SupplyChain\\wwwroot\\wkhtmltopdf\\after_compile\\amazonlinux2_lambda.sh",
+      "Identity": "C:\\SupplyChain v4\\ProjetoSupllyChain\\wwwroot\\wkhtmltopdf\\after_compile\\amazonlinux2_lambda.sh",
       "SourceId": "SupplyChain",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\SupplyChain\\wwwroot\\",
+      "ContentRoot": "C:\\SupplyChain v4\\ProjetoSupllyChain\\wwwroot\\",
       "BasePath": "_content/SupplyChain",
       "RelativePath": "wkhtmltopdf/after_compile/amazonlinux2_lambda.sh",
       "AssetKind": "All",
@@ -1309,10 +1309,10 @@
       "OriginalItemSpec": "wwwroot\\wkhtmltopdf\\after_compile\\amazonlinux2_lambda.sh"
     },
     {
-      "Identity": "C:\\SupplyChain\\wwwroot\\wkhtmltopdf\\build",
+      "Identity": "C:\\SupplyChain v4\\ProjetoSupllyChain\\wwwroot\\wkhtmltopdf\\build",
       "SourceId": "SupplyChain",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\SupplyChain\\wwwroot\\",
+      "ContentRoot": "C:\\SupplyChain v4\\ProjetoSupllyChain\\wwwroot\\",
       "BasePath": "_content/SupplyChain",
       "RelativePath": "wkhtmltopdf/build",
       "AssetKind": "All",
@@ -1326,10 +1326,10 @@
       "OriginalItemSpec": "wwwroot\\wkhtmltopdf\\build"
     },
     {
-      "Identity": "C:\\SupplyChain\\wwwroot\\wkhtmltopdf\\build.yml",
+      "Identity": "C:\\SupplyChain v4\\ProjetoSupllyChain\\wwwroot\\wkhtmltopdf\\build.yml",
       "SourceId": "SupplyChain",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\SupplyChain\\wwwroot\\",
+      "ContentRoot": "C:\\SupplyChain v4\\ProjetoSupllyChain\\wwwroot\\",
       "BasePath": "_content/SupplyChain",
       "RelativePath": "wkhtmltopdf/build.yml",
       "AssetKind": "All",
@@ -1343,10 +1343,10 @@
       "OriginalItemSpec": "wwwroot\\wkhtmltopdf\\build.yml"
     },
     {
-      "Identity": "C:\\SupplyChain\\wwwroot\\wkhtmltopdf\\conanfile.txt",
+      "Identity": "C:\\SupplyChain v4\\ProjetoSupllyChain\\wwwroot\\wkhtmltopdf\\conanfile.txt",
       "SourceId": "SupplyChain",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\SupplyChain\\wwwroot\\",
+      "ContentRoot": "C:\\SupplyChain v4\\ProjetoSupllyChain\\wwwroot\\",
       "BasePath": "_content/SupplyChain",
       "RelativePath": "wkhtmltopdf/conanfile.txt",
       "AssetKind": "All",
@@ -1360,10 +1360,10 @@
       "OriginalItemSpec": "wwwroot\\wkhtmltopdf\\conanfile.txt"
     },
     {
-      "Identity": "C:\\SupplyChain\\wwwroot\\wkhtmltopdf\\docker\\Dockerfile.archlinux",
+      "Identity": "C:\\SupplyChain v4\\ProjetoSupllyChain\\wwwroot\\wkhtmltopdf\\docker\\Dockerfile.archlinux",
       "SourceId": "SupplyChain",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\SupplyChain\\wwwroot\\",
+      "ContentRoot": "C:\\SupplyChain v4\\ProjetoSupllyChain\\wwwroot\\",
       "BasePath": "_content/SupplyChain",
       "RelativePath": "wkhtmltopdf/docker/Dockerfile.archlinux",
       "AssetKind": "All",
@@ -1377,10 +1377,10 @@
       "OriginalItemSpec": "wwwroot\\wkhtmltopdf\\docker\\Dockerfile.archlinux"
     },
     {
-      "Identity": "C:\\SupplyChain\\wwwroot\\wkhtmltopdf\\docker\\Dockerfile.centos",
+      "Identity": "C:\\SupplyChain v4\\ProjetoSupllyChain\\wwwroot\\wkhtmltopdf\\docker\\Dockerfile.centos",
       "SourceId": "SupplyChain",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\SupplyChain\\wwwroot\\",
+      "ContentRoot": "C:\\SupplyChain v4\\ProjetoSupllyChain\\wwwroot\\",
       "BasePath": "_content/SupplyChain",
       "RelativePath": "wkhtmltopdf/docker/Dockerfile.centos",
       "AssetKind": "All",
@@ -1394,10 +1394,10 @@
       "OriginalItemSpec": "wwwroot\\wkhtmltopdf\\docker\\Dockerfile.centos"
     },
     {
-      "Identity": "C:\\SupplyChain\\wwwroot\\wkhtmltopdf\\docker\\Dockerfile.debian",
+      "Identity": "C:\\SupplyChain v4\\ProjetoSupllyChain\\wwwroot\\wkhtmltopdf\\docker\\Dockerfile.debian",
       "SourceId": "SupplyChain",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\SupplyChain\\wwwroot\\",
+      "ContentRoot": "C:\\SupplyChain v4\\ProjetoSupllyChain\\wwwroot\\",
       "BasePath": "_content/SupplyChain",
       "RelativePath": "wkhtmltopdf/docker/Dockerfile.debian",
       "AssetKind": "All",
@@ -1411,10 +1411,10 @@
       "OriginalItemSpec": "wwwroot\\wkhtmltopdf\\docker\\Dockerfile.debian"
     },
     {
-      "Identity": "C:\\SupplyChain\\wwwroot\\wkhtmltopdf\\docker\\Dockerfile.fpm",
+      "Identity": "C:\\SupplyChain v4\\ProjetoSupllyChain\\wwwroot\\wkhtmltopdf\\docker\\Dockerfile.fpm",
       "SourceId": "SupplyChain",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\SupplyChain\\wwwroot\\",
+      "ContentRoot": "C:\\SupplyChain v4\\ProjetoSupllyChain\\wwwroot\\",
       "BasePath": "_content/SupplyChain",
       "RelativePath": "wkhtmltopdf/docker/Dockerfile.fpm",
       "AssetKind": "All",
@@ -1428,10 +1428,10 @@
       "OriginalItemSpec": "wwwroot\\wkhtmltopdf\\docker\\Dockerfile.fpm"
     },
     {
-      "Identity": "C:\\SupplyChain\\wwwroot\\wkhtmltopdf\\docker\\Dockerfile.mxe",
+      "Identity": "C:\\SupplyChain v4\\ProjetoSupllyChain\\wwwroot\\wkhtmltopdf\\docker\\Dockerfile.mxe",
       "SourceId": "SupplyChain",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\SupplyChain\\wwwroot\\",
+      "ContentRoot": "C:\\SupplyChain v4\\ProjetoSupllyChain\\wwwroot\\",
       "BasePath": "_content/SupplyChain",
       "RelativePath": "wkhtmltopdf/docker/Dockerfile.mxe",
       "AssetKind": "All",
@@ -1445,10 +1445,10 @@
       "OriginalItemSpec": "wwwroot\\wkhtmltopdf\\docker\\Dockerfile.mxe"
     },
     {
-      "Identity": "C:\\SupplyChain\\wwwroot\\wkhtmltopdf\\docker\\Dockerfile.opensuse",
+      "Identity": "C:\\SupplyChain v4\\ProjetoSupllyChain\\wwwroot\\wkhtmltopdf\\docker\\Dockerfile.opensuse",
       "SourceId": "SupplyChain",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\SupplyChain\\wwwroot\\",
+      "ContentRoot": "C:\\SupplyChain v4\\ProjetoSupllyChain\\wwwroot\\",
       "BasePath": "_content/SupplyChain",
       "RelativePath": "wkhtmltopdf/docker/Dockerfile.opensuse",
       "AssetKind": "All",
@@ -1462,10 +1462,10 @@
       "OriginalItemSpec": "wwwroot\\wkhtmltopdf\\docker\\Dockerfile.opensuse"
     },
     {
-      "Identity": "C:\\SupplyChain\\wwwroot\\wkhtmltopdf\\README.md",
+      "Identity": "C:\\SupplyChain v4\\ProjetoSupllyChain\\wwwroot\\wkhtmltopdf\\README.md",
       "SourceId": "SupplyChain",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\SupplyChain\\wwwroot\\",
+      "ContentRoot": "C:\\SupplyChain v4\\ProjetoSupllyChain\\wwwroot\\",
       "BasePath": "_content/SupplyChain",
       "RelativePath": "wkhtmltopdf/README.md",
       "AssetKind": "All",
@@ -1479,10 +1479,10 @@
       "OriginalItemSpec": "wwwroot\\wkhtmltopdf\\README.md"
     },
     {
-      "Identity": "C:\\SupplyChain\\wwwroot\\wkhtmltopdf\\vagrant\\__init__.py",
+      "Identity": "C:\\SupplyChain v4\\ProjetoSupllyChain\\wwwroot\\wkhtmltopdf\\vagrant\\__init__.py",
       "SourceId": "SupplyChain",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\SupplyChain\\wwwroot\\",
+      "ContentRoot": "C:\\SupplyChain v4\\ProjetoSupllyChain\\wwwroot\\",
       "BasePath": "_content/SupplyChain",
       "RelativePath": "wkhtmltopdf/vagrant/__init__.py",
       "AssetKind": "All",
@@ -1496,10 +1496,10 @@
       "OriginalItemSpec": "wwwroot\\wkhtmltopdf\\vagrant\\__init__.py"
     },
     {
-      "Identity": "C:\\SupplyChain\\wwwroot\\wkhtmltopdf\\vagrant\\macos.py",
+      "Identity": "C:\\SupplyChain v4\\ProjetoSupllyChain\\wwwroot\\wkhtmltopdf\\vagrant\\macos.py",
       "SourceId": "SupplyChain",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\SupplyChain\\wwwroot\\",
+      "ContentRoot": "C:\\SupplyChain v4\\ProjetoSupllyChain\\wwwroot\\",
       "BasePath": "_content/SupplyChain",
       "RelativePath": "wkhtmltopdf/vagrant/macos.py",
       "AssetKind": "All",
@@ -1513,10 +1513,10 @@
       "OriginalItemSpec": "wwwroot\\wkhtmltopdf\\vagrant\\macos.py"
     },
     {
-      "Identity": "C:\\SupplyChain\\wwwroot\\wkhtmltopdf\\vagrant\\Vagrantfile",
+      "Identity": "C:\\SupplyChain v4\\ProjetoSupllyChain\\wwwroot\\wkhtmltopdf\\vagrant\\Vagrantfile",
       "SourceId": "SupplyChain",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\SupplyChain\\wwwroot\\",
+      "ContentRoot": "C:\\SupplyChain v4\\ProjetoSupllyChain\\wwwroot\\",
       "BasePath": "_content/SupplyChain",
       "RelativePath": "wkhtmltopdf/vagrant/Vagrantfile",
       "AssetKind": "All",
@@ -1530,10 +1530,10 @@
       "OriginalItemSpec": "wwwroot\\wkhtmltopdf\\vagrant\\Vagrantfile"
     },
     {
-      "Identity": "C:\\SupplyChain\\wwwroot\\wkhtmltopdf\\vagrant\\windows.py",
+      "Identity": "C:\\SupplyChain v4\\ProjetoSupllyChain\\wwwroot\\wkhtmltopdf\\vagrant\\windows.py",
       "SourceId": "SupplyChain",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\SupplyChain\\wwwroot\\",
+      "ContentRoot": "C:\\SupplyChain v4\\ProjetoSupllyChain\\wwwroot\\",
       "BasePath": "_content/SupplyChain",
       "RelativePath": "wkhtmltopdf/vagrant/windows.py",
       "AssetKind": "All",
@@ -1547,10 +1547,10 @@
       "OriginalItemSpec": "wwwroot\\wkhtmltopdf\\vagrant\\windows.py"
     },
     {
-      "Identity": "C:\\SupplyChain\\wwwroot\\wkhtmltopdf\\vagrant\\wkhtmltox.nsi",
+      "Identity": "C:\\SupplyChain v4\\ProjetoSupllyChain\\wwwroot\\wkhtmltopdf\\vagrant\\wkhtmltox.nsi",
       "SourceId": "SupplyChain",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\SupplyChain\\wwwroot\\",
+      "ContentRoot": "C:\\SupplyChain v4\\ProjetoSupllyChain\\wwwroot\\",
       "BasePath": "_content/SupplyChain",
       "RelativePath": "wkhtmltopdf/vagrant/wkhtmltox.nsi",
       "AssetKind": "All",
@@ -1567,7 +1567,7 @@
       "Identity": "C:\\Users\\Administrador\\.nuget\\packages\\bootstrap\\5.3.1\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-grid.css",
       "SourceId": "SupplyChain",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\SupplyChain\\wwwroot\\",
+      "ContentRoot": "C:\\SupplyChain v4\\ProjetoSupllyChain\\wwwroot\\",
       "BasePath": "_content/SupplyChain",
       "RelativePath": "css/bootstrap-grid.css",
       "AssetKind": "All",
@@ -1584,7 +1584,7 @@
       "Identity": "C:\\Users\\Administrador\\.nuget\\packages\\bootstrap\\5.3.1\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-grid.css.map",
       "SourceId": "SupplyChain",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\SupplyChain\\wwwroot\\",
+      "ContentRoot": "C:\\SupplyChain v4\\ProjetoSupllyChain\\wwwroot\\",
       "BasePath": "_content/SupplyChain",
       "RelativePath": "css/bootstrap-grid.css.map",
       "AssetKind": "All",
@@ -1601,7 +1601,7 @@
       "Identity": "C:\\Users\\Administrador\\.nuget\\packages\\bootstrap\\5.3.1\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-grid.min.css",
       "SourceId": "SupplyChain",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\SupplyChain\\wwwroot\\",
+      "ContentRoot": "C:\\SupplyChain v4\\ProjetoSupllyChain\\wwwroot\\",
       "BasePath": "_content/SupplyChain",
       "RelativePath": "css/bootstrap-grid.min.css",
       "AssetKind": "All",
@@ -1618,7 +1618,7 @@
       "Identity": "C:\\Users\\Administrador\\.nuget\\packages\\bootstrap\\5.3.1\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-grid.min.css.map",
       "SourceId": "SupplyChain",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\SupplyChain\\wwwroot\\",
+      "ContentRoot": "C:\\SupplyChain v4\\ProjetoSupllyChain\\wwwroot\\",
       "BasePath": "_content/SupplyChain",
       "RelativePath": "css/bootstrap-grid.min.css.map",
       "AssetKind": "All",
@@ -1635,7 +1635,7 @@
       "Identity": "C:\\Users\\Administrador\\.nuget\\packages\\bootstrap\\5.3.1\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-grid.rtl.css",
       "SourceId": "SupplyChain",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\SupplyChain\\wwwroot\\",
+      "ContentRoot": "C:\\SupplyChain v4\\ProjetoSupllyChain\\wwwroot\\",
       "BasePath": "_content/SupplyChain",
       "RelativePath": "css/bootstrap-grid.rtl.css",
       "AssetKind": "All",
@@ -1652,7 +1652,7 @@
       "Identity": "C:\\Users\\Administrador\\.nuget\\packages\\bootstrap\\5.3.1\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-grid.rtl.css.map",
       "SourceId": "SupplyChain",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\SupplyChain\\wwwroot\\",
+      "ContentRoot": "C:\\SupplyChain v4\\ProjetoSupllyChain\\wwwroot\\",
       "BasePath": "_content/SupplyChain",
       "RelativePath": "css/bootstrap-grid.rtl.css.map",
       "AssetKind": "All",
@@ -1669,7 +1669,7 @@
       "Identity": "C:\\Users\\Administrador\\.nuget\\packages\\bootstrap\\5.3.1\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-grid.rtl.min.css",
       "SourceId": "SupplyChain",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\SupplyChain\\wwwroot\\",
+      "ContentRoot": "C:\\SupplyChain v4\\ProjetoSupllyChain\\wwwroot\\",
       "BasePath": "_content/SupplyChain",
       "RelativePath": "css/bootstrap-grid.rtl.min.css",
       "AssetKind": "All",
@@ -1686,7 +1686,7 @@
       "Identity": "C:\\Users\\Administrador\\.nuget\\packages\\bootstrap\\5.3.1\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-grid.rtl.min.css.map",
       "SourceId": "SupplyChain",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\SupplyChain\\wwwroot\\",
+      "ContentRoot": "C:\\SupplyChain v4\\ProjetoSupllyChain\\wwwroot\\",
       "BasePath": "_content/SupplyChain",
       "RelativePath": "css/bootstrap-grid.rtl.min.css.map",
       "AssetKind": "All",
@@ -1703,7 +1703,7 @@
       "Identity": "C:\\Users\\Administrador\\.nuget\\packages\\bootstrap\\5.3.1\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-reboot.css",
       "SourceId": "SupplyChain",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\SupplyChain\\wwwroot\\",
+      "ContentRoot": "C:\\SupplyChain v4\\ProjetoSupllyChain\\wwwroot\\",
       "BasePath": "_content/SupplyChain",
       "RelativePath": "css/bootstrap-reboot.css",
       "AssetKind": "All",
@@ -1720,7 +1720,7 @@
       "Identity": "C:\\Users\\Administrador\\.nuget\\packages\\bootstrap\\5.3.1\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-reboot.css.map",
       "SourceId": "SupplyChain",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\SupplyChain\\wwwroot\\",
+      "ContentRoot": "C:\\SupplyChain v4\\ProjetoSupllyChain\\wwwroot\\",
       "BasePath": "_content/SupplyChain",
       "RelativePath": "css/bootstrap-reboot.css.map",
       "AssetKind": "All",
@@ -1737,7 +1737,7 @@
       "Identity": "C:\\Users\\Administrador\\.nuget\\packages\\bootstrap\\5.3.1\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-reboot.min.css",
       "SourceId": "SupplyChain",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\SupplyChain\\wwwroot\\",
+      "ContentRoot": "C:\\SupplyChain v4\\ProjetoSupllyChain\\wwwroot\\",
       "BasePath": "_content/SupplyChain",
       "RelativePath": "css/bootstrap-reboot.min.css",
       "AssetKind": "All",
@@ -1754,7 +1754,7 @@
       "Identity": "C:\\Users\\Administrador\\.nuget\\packages\\bootstrap\\5.3.1\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-reboot.min.css.map",
       "SourceId": "SupplyChain",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\SupplyChain\\wwwroot\\",
+      "ContentRoot": "C:\\SupplyChain v4\\ProjetoSupllyChain\\wwwroot\\",
       "BasePath": "_content/SupplyChain",
       "RelativePath": "css/bootstrap-reboot.min.css.map",
       "AssetKind": "All",
@@ -1771,7 +1771,7 @@
       "Identity": "C:\\Users\\Administrador\\.nuget\\packages\\bootstrap\\5.3.1\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-reboot.rtl.css",
       "SourceId": "SupplyChain",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\SupplyChain\\wwwroot\\",
+      "ContentRoot": "C:\\SupplyChain v4\\ProjetoSupllyChain\\wwwroot\\",
       "BasePath": "_content/SupplyChain",
       "RelativePath": "css/bootstrap-reboot.rtl.css",
       "AssetKind": "All",
@@ -1788,7 +1788,7 @@
       "Identity": "C:\\Users\\Administrador\\.nuget\\packages\\bootstrap\\5.3.1\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-reboot.rtl.css.map",
       "SourceId": "SupplyChain",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\SupplyChain\\wwwroot\\",
+      "ContentRoot": "C:\\SupplyChain v4\\ProjetoSupllyChain\\wwwroot\\",
       "BasePath": "_content/SupplyChain",
       "RelativePath": "css/bootstrap-reboot.rtl.css.map",
       "AssetKind": "All",
@@ -1805,7 +1805,7 @@
       "Identity": "C:\\Users\\Administrador\\.nuget\\packages\\bootstrap\\5.3.1\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-reboot.rtl.min.css",
       "SourceId": "SupplyChain",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\SupplyChain\\wwwroot\\",
+      "ContentRoot": "C:\\SupplyChain v4\\ProjetoSupllyChain\\wwwroot\\",
       "BasePath": "_content/SupplyChain",
       "RelativePath": "css/bootstrap-reboot.rtl.min.css",
       "AssetKind": "All",
@@ -1822,7 +1822,7 @@
       "Identity": "C:\\Users\\Administrador\\.nuget\\packages\\bootstrap\\5.3.1\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-reboot.rtl.min.css.map",
       "SourceId": "SupplyChain",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\SupplyChain\\wwwroot\\",
+      "ContentRoot": "C:\\SupplyChain v4\\ProjetoSupllyChain\\wwwroot\\",
       "BasePath": "_content/SupplyChain",
       "RelativePath": "css/bootstrap-reboot.rtl.min.css.map",
       "AssetKind": "All",
@@ -1839,7 +1839,7 @@
       "Identity": "C:\\Users\\Administrador\\.nuget\\packages\\bootstrap\\5.3.1\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-utilities.css",
       "SourceId": "SupplyChain",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\SupplyChain\\wwwroot\\",
+      "ContentRoot": "C:\\SupplyChain v4\\ProjetoSupllyChain\\wwwroot\\",
       "BasePath": "_content/SupplyChain",
       "RelativePath": "css/bootstrap-utilities.css",
       "AssetKind": "All",
@@ -1856,7 +1856,7 @@
       "Identity": "C:\\Users\\Administrador\\.nuget\\packages\\bootstrap\\5.3.1\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-utilities.css.map",
       "SourceId": "SupplyChain",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\SupplyChain\\wwwroot\\",
+      "ContentRoot": "C:\\SupplyChain v4\\ProjetoSupllyChain\\wwwroot\\",
       "BasePath": "_content/SupplyChain",
       "RelativePath": "css/bootstrap-utilities.css.map",
       "AssetKind": "All",
@@ -1873,7 +1873,7 @@
       "Identity": "C:\\Users\\Administrador\\.nuget\\packages\\bootstrap\\5.3.1\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-utilities.min.css",
       "SourceId": "SupplyChain",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\SupplyChain\\wwwroot\\",
+      "ContentRoot": "C:\\SupplyChain v4\\ProjetoSupllyChain\\wwwroot\\",
       "BasePath": "_content/SupplyChain",
       "RelativePath": "css/bootstrap-utilities.min.css",
       "AssetKind": "All",
@@ -1890,7 +1890,7 @@
       "Identity": "C:\\Users\\Administrador\\.nuget\\packages\\bootstrap\\5.3.1\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-utilities.min.css.map",
       "SourceId": "SupplyChain",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\SupplyChain\\wwwroot\\",
+      "ContentRoot": "C:\\SupplyChain v4\\ProjetoSupllyChain\\wwwroot\\",
       "BasePath": "_content/SupplyChain",
       "RelativePath": "css/bootstrap-utilities.min.css.map",
       "AssetKind": "All",
@@ -1907,7 +1907,7 @@
       "Identity": "C:\\Users\\Administrador\\.nuget\\packages\\bootstrap\\5.3.1\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-utilities.rtl.css",
       "SourceId": "SupplyChain",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\SupplyChain\\wwwroot\\",
+      "ContentRoot": "C:\\SupplyChain v4\\ProjetoSupllyChain\\wwwroot\\",
       "BasePath": "_content/SupplyChain",
       "RelativePath": "css/bootstrap-utilities.rtl.css",
       "AssetKind": "All",
@@ -1924,7 +1924,7 @@
       "Identity": "C:\\Users\\Administrador\\.nuget\\packages\\bootstrap\\5.3.1\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-utilities.rtl.css.map",
       "SourceId": "SupplyChain",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\SupplyChain\\wwwroot\\",
+      "ContentRoot": "C:\\SupplyChain v4\\ProjetoSupllyChain\\wwwroot\\",
       "BasePath": "_content/SupplyChain",
       "RelativePath": "css/bootstrap-utilities.rtl.css.map",
       "AssetKind": "All",
@@ -1941,7 +1941,7 @@
       "Identity": "C:\\Users\\Administrador\\.nuget\\packages\\bootstrap\\5.3.1\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-utilities.rtl.min.css",
       "SourceId": "SupplyChain",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\SupplyChain\\wwwroot\\",
+      "ContentRoot": "C:\\SupplyChain v4\\ProjetoSupllyChain\\wwwroot\\",
       "BasePath": "_content/SupplyChain",
       "RelativePath": "css/bootstrap-utilities.rtl.min.css",
       "AssetKind": "All",
@@ -1958,7 +1958,7 @@
       "Identity": "C:\\Users\\Administrador\\.nuget\\packages\\bootstrap\\5.3.1\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-utilities.rtl.min.css.map",
       "SourceId": "SupplyChain",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\SupplyChain\\wwwroot\\",
+      "ContentRoot": "C:\\SupplyChain v4\\ProjetoSupllyChain\\wwwroot\\",
       "BasePath": "_content/SupplyChain",
       "RelativePath": "css/bootstrap-utilities.rtl.min.css.map",
       "AssetKind": "All",
@@ -1975,7 +1975,7 @@
       "Identity": "C:\\Users\\Administrador\\.nuget\\packages\\bootstrap\\5.3.1\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap.css",
       "SourceId": "SupplyChain",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\SupplyChain\\wwwroot\\",
+      "ContentRoot": "C:\\SupplyChain v4\\ProjetoSupllyChain\\wwwroot\\",
       "BasePath": "_content/SupplyChain",
       "RelativePath": "css/bootstrap.css",
       "AssetKind": "All",
@@ -1992,7 +1992,7 @@
       "Identity": "C:\\Users\\Administrador\\.nuget\\packages\\bootstrap\\5.3.1\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap.css.map",
       "SourceId": "SupplyChain",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\SupplyChain\\wwwroot\\",
+      "ContentRoot": "C:\\SupplyChain v4\\ProjetoSupllyChain\\wwwroot\\",
       "BasePath": "_content/SupplyChain",
       "RelativePath": "css/bootstrap.css.map",
       "AssetKind": "All",
@@ -2009,7 +2009,7 @@
       "Identity": "C:\\Users\\Administrador\\.nuget\\packages\\bootstrap\\5.3.1\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap.min.css",
       "SourceId": "SupplyChain",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\SupplyChain\\wwwroot\\",
+      "ContentRoot": "C:\\SupplyChain v4\\ProjetoSupllyChain\\wwwroot\\",
       "BasePath": "_content/SupplyChain",
       "RelativePath": "css/bootstrap.min.css",
       "AssetKind": "All",
@@ -2026,7 +2026,7 @@
       "Identity": "C:\\Users\\Administrador\\.nuget\\packages\\bootstrap\\5.3.1\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap.min.css.map",
       "SourceId": "SupplyChain",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\SupplyChain\\wwwroot\\",
+      "ContentRoot": "C:\\SupplyChain v4\\ProjetoSupllyChain\\wwwroot\\",
       "BasePath": "_content/SupplyChain",
       "RelativePath": "css/bootstrap.min.css.map",
       "AssetKind": "All",
@@ -2043,7 +2043,7 @@
       "Identity": "C:\\Users\\Administrador\\.nuget\\packages\\bootstrap\\5.3.1\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap.rtl.css",
       "SourceId": "SupplyChain",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\SupplyChain\\wwwroot\\",
+      "ContentRoot": "C:\\SupplyChain v4\\ProjetoSupllyChain\\wwwroot\\",
       "BasePath": "_content/SupplyChain",
       "RelativePath": "css/bootstrap.rtl.css",
       "AssetKind": "All",
@@ -2060,7 +2060,7 @@
       "Identity": "C:\\Users\\Administrador\\.nuget\\packages\\bootstrap\\5.3.1\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap.rtl.css.map",
       "SourceId": "SupplyChain",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\SupplyChain\\wwwroot\\",
+      "ContentRoot": "C:\\SupplyChain v4\\ProjetoSupllyChain\\wwwroot\\",
       "BasePath": "_content/SupplyChain",
       "RelativePath": "css/bootstrap.rtl.css.map",
       "AssetKind": "All",
@@ -2077,7 +2077,7 @@
       "Identity": "C:\\Users\\Administrador\\.nuget\\packages\\bootstrap\\5.3.1\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap.rtl.min.css",
       "SourceId": "SupplyChain",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\SupplyChain\\wwwroot\\",
+      "ContentRoot": "C:\\SupplyChain v4\\ProjetoSupllyChain\\wwwroot\\",
       "BasePath": "_content/SupplyChain",
       "RelativePath": "css/bootstrap.rtl.min.css",
       "AssetKind": "All",
@@ -2094,7 +2094,7 @@
       "Identity": "C:\\Users\\Administrador\\.nuget\\packages\\bootstrap\\5.3.1\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap.rtl.min.css.map",
       "SourceId": "SupplyChain",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\SupplyChain\\wwwroot\\",
+      "ContentRoot": "C:\\SupplyChain v4\\ProjetoSupllyChain\\wwwroot\\",
       "BasePath": "_content/SupplyChain",
       "RelativePath": "css/bootstrap.rtl.min.css.map",
       "AssetKind": "All",
@@ -2111,7 +2111,7 @@
       "Identity": "C:\\Users\\Administrador\\.nuget\\packages\\bootstrap\\5.3.1\\contentFiles\\any\\any\\wwwroot\\js\\bootstrap.bundle.js",
       "SourceId": "SupplyChain",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\SupplyChain\\wwwroot\\",
+      "ContentRoot": "C:\\SupplyChain v4\\ProjetoSupllyChain\\wwwroot\\",
       "BasePath": "_content/SupplyChain",
       "RelativePath": "js/bootstrap.bundle.js",
       "AssetKind": "All",
@@ -2128,7 +2128,7 @@
       "Identity": "C:\\Users\\Administrador\\.nuget\\packages\\bootstrap\\5.3.1\\contentFiles\\any\\any\\wwwroot\\js\\bootstrap.bundle.js.map",
       "SourceId": "SupplyChain",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\SupplyChain\\wwwroot\\",
+      "ContentRoot": "C:\\SupplyChain v4\\ProjetoSupllyChain\\wwwroot\\",
       "BasePath": "_content/SupplyChain",
       "RelativePath": "js/bootstrap.bundle.js.map",
       "AssetKind": "All",
@@ -2145,7 +2145,7 @@
       "Identity": "C:\\Users\\Administrador\\.nuget\\packages\\bootstrap\\5.3.1\\contentFiles\\any\\any\\wwwroot\\js\\bootstrap.bundle.min.js",
       "SourceId": "SupplyChain",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\SupplyChain\\wwwroot\\",
+      "ContentRoot": "C:\\SupplyChain v4\\ProjetoSupllyChain\\wwwroot\\",
       "BasePath": "_content/SupplyChain",
       "RelativePath": "js/bootstrap.bundle.min.js",
       "AssetKind": "All",
@@ -2162,7 +2162,7 @@
       "Identity": "C:\\Users\\Administrador\\.nuget\\packages\\bootstrap\\5.3.1\\contentFiles\\any\\any\\wwwroot\\js\\bootstrap.bundle.min.js.map",
       "SourceId": "SupplyChain",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\SupplyChain\\wwwroot\\",
+      "ContentRoot": "C:\\SupplyChain v4\\ProjetoSupllyChain\\wwwroot\\",
       "BasePath": "_content/SupplyChain",
       "RelativePath": "js/bootstrap.bundle.min.js.map",
       "AssetKind": "All",
@@ -2179,7 +2179,7 @@
       "Identity": "C:\\Users\\Administrador\\.nuget\\packages\\bootstrap\\5.3.1\\contentFiles\\any\\any\\wwwroot\\js\\bootstrap.esm.js",
       "SourceId": "SupplyChain",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\SupplyChain\\wwwroot\\",
+      "ContentRoot": "C:\\SupplyChain v4\\ProjetoSupllyChain\\wwwroot\\",
       "BasePath": "_content/SupplyChain",
       "RelativePath": "js/bootstrap.esm.js",
       "AssetKind": "All",
@@ -2196,7 +2196,7 @@
       "Identity": "C:\\Users\\Administrador\\.nuget\\packages\\bootstrap\\5.3.1\\contentFiles\\any\\any\\wwwroot\\js\\bootstrap.esm.js.map",
       "SourceId": "SupplyChain",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\SupplyChain\\wwwroot\\",
+      "ContentRoot": "C:\\SupplyChain v4\\ProjetoSupllyChain\\wwwroot\\",
       "BasePath": "_content/SupplyChain",
       "RelativePath": "js/bootstrap.esm.js.map",
       "AssetKind": "All",
@@ -2213,7 +2213,7 @@
       "Identity": "C:\\Users\\Administrador\\.nuget\\packages\\bootstrap\\5.3.1\\contentFiles\\any\\any\\wwwroot\\js\\bootstrap.esm.min.js",
       "SourceId": "SupplyChain",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\SupplyChain\\wwwroot\\",
+      "ContentRoot": "C:\\SupplyChain v4\\ProjetoSupllyChain\\wwwroot\\",
       "BasePath": "_content/SupplyChain",
       "RelativePath": "js/bootstrap.esm.min.js",
       "AssetKind": "All",
@@ -2230,7 +2230,7 @@
       "Identity": "C:\\Users\\Administrador\\.nuget\\packages\\bootstrap\\5.3.1\\contentFiles\\any\\any\\wwwroot\\js\\bootstrap.esm.min.js.map",
       "SourceId": "SupplyChain",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\SupplyChain\\wwwroot\\",
+      "ContentRoot": "C:\\SupplyChain v4\\ProjetoSupllyChain\\wwwroot\\",
       "BasePath": "_content/SupplyChain",
       "RelativePath": "js/bootstrap.esm.min.js.map",
       "AssetKind": "All",
@@ -2247,7 +2247,7 @@
       "Identity": "C:\\Users\\Administrador\\.nuget\\packages\\bootstrap\\5.3.1\\contentFiles\\any\\any\\wwwroot\\js\\bootstrap.js",
       "SourceId": "SupplyChain",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\SupplyChain\\wwwroot\\",
+      "ContentRoot": "C:\\SupplyChain v4\\ProjetoSupllyChain\\wwwroot\\",
       "BasePath": "_content/SupplyChain",
       "RelativePath": "js/bootstrap.js",
       "AssetKind": "All",
@@ -2264,7 +2264,7 @@
       "Identity": "C:\\Users\\Administrador\\.nuget\\packages\\bootstrap\\5.3.1\\contentFiles\\any\\any\\wwwroot\\js\\bootstrap.js.map",
       "SourceId": "SupplyChain",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\SupplyChain\\wwwroot\\",
+      "ContentRoot": "C:\\SupplyChain v4\\ProjetoSupllyChain\\wwwroot\\",
       "BasePath": "_content/SupplyChain",
       "RelativePath": "js/bootstrap.js.map",
       "AssetKind": "All",
@@ -2281,7 +2281,7 @@
       "Identity": "C:\\Users\\Administrador\\.nuget\\packages\\bootstrap\\5.3.1\\contentFiles\\any\\any\\wwwroot\\js\\bootstrap.min.js",
       "SourceId": "SupplyChain",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\SupplyChain\\wwwroot\\",
+      "ContentRoot": "C:\\SupplyChain v4\\ProjetoSupllyChain\\wwwroot\\",
       "BasePath": "_content/SupplyChain",
       "RelativePath": "js/bootstrap.min.js",
       "AssetKind": "All",
@@ -2298,7 +2298,7 @@
       "Identity": "C:\\Users\\Administrador\\.nuget\\packages\\bootstrap\\5.3.1\\contentFiles\\any\\any\\wwwroot\\js\\bootstrap.min.js.map",
       "SourceId": "SupplyChain",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\SupplyChain\\wwwroot\\",
+      "ContentRoot": "C:\\SupplyChain v4\\ProjetoSupllyChain\\wwwroot\\",
       "BasePath": "_content/SupplyChain",
       "RelativePath": "js/bootstrap.min.js.map",
       "AssetKind": "All",

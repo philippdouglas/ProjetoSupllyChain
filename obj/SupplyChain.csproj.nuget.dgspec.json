@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\SupplyChain\\SupplyChain.csproj": {}
+    "C:\\SupplyChain v4\\ProjetoSupllyChain\\SupplyChain.csproj": {}
   },
   "projects": {
-    "C:\\SupplyChain\\SupplyChain.csproj": {
+    "C:\\SupplyChain v4\\ProjetoSupllyChain\\SupplyChain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\SupplyChain\\SupplyChain.csproj",
+        "projectUniqueName": "C:\\SupplyChain v4\\ProjetoSupllyChain\\SupplyChain.csproj",
         "projectName": "SupplyChain",
-        "projectPath": "C:\\SupplyChain\\SupplyChain.csproj",
+        "projectPath": "C:\\SupplyChain v4\\ProjetoSupllyChain\\SupplyChain.csproj",
         "packagesPath": "C:\\Users\\Administrador\\.nuget\\packages\\",
-        "outputPath": "C:\\SupplyChain\\obj\\",
+        "outputPath": "C:\\SupplyChain v4\\ProjetoSupllyChain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Administrador\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -68,10 +68,6 @@
             "bootstrap": {
               "target": "Package",
               "version": "[5.3.1, )"
-            },
-            "iTextSharp": {
-              "target": "Package",
-              "version": "[5.5.13.3, )"
             },
             "jquery": {
               "target": "Package",

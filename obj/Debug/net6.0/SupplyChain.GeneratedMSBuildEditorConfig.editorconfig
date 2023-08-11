@@ -9,73 +9,73 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = SupplyChain
 build_property.RootNamespace = SupplyChain
-build_property.ProjectDir = C:\SupplyChain\
+build_property.ProjectDir = C:\SupplyChain v4\ProjetoSupllyChain\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = true
-build_property.MSBuildProjectDirectory = C:\SupplyChain
+build_property.MSBuildProjectDirectory = C:\SupplyChain v4\ProjetoSupllyChain
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/SupplyChain/Views/Entrada/CadastroEntrada.cshtml]
+[C:/SupplyChain v4/ProjetoSupllyChain/Views/Entrada/CadastroEntrada.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW50cmFkYVxDYWRhc3Ryb0VudHJhZGEuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/SupplyChain/Views/Entrada/SelecionarDataExportacao.cshtml]
+[C:/SupplyChain v4/ProjetoSupllyChain/Views/Entrada/SelecionarDataExportacao.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW50cmFkYVxTZWxlY2lvbmFyRGF0YUV4cG9ydGFjYW8uY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/SupplyChain/Views/Home/Index.cshtml]
+[C:/SupplyChain v4/ProjetoSupllyChain/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/SupplyChain/Views/Mercadoria/Create.cshtml]
+[C:/SupplyChain v4/ProjetoSupllyChain/Views/Mercadoria/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWVyY2Fkb3JpYVxDcmVhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/SupplyChain/Views/Mercadoria/Delete.cshtml]
+[C:/SupplyChain v4/ProjetoSupllyChain/Views/Mercadoria/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWVyY2Fkb3JpYVxEZWxldGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/SupplyChain/Views/Mercadoria/Details.cshtml]
+[C:/SupplyChain v4/ProjetoSupllyChain/Views/Mercadoria/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWVyY2Fkb3JpYVxEZXRhaWxzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/SupplyChain/Views/Mercadoria/Edit.cshtml]
+[C:/SupplyChain v4/ProjetoSupllyChain/Views/Mercadoria/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWVyY2Fkb3JpYVxFZGl0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/SupplyChain/Views/Mercadoria/Index.cshtml]
+[C:/SupplyChain v4/ProjetoSupllyChain/Views/Mercadoria/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWVyY2Fkb3JpYVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/SupplyChain/Views/Relatorio/Index.cshtml]
+[C:/SupplyChain v4/ProjetoSupllyChain/Views/Relatorio/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVsYXRvcmlvXEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/SupplyChain/Views/Saida/CadastroSaida.cshtml]
+[C:/SupplyChain v4/ProjetoSupllyChain/Views/Saida/CadastroSaida.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2FpZGFcQ2FkYXN0cm9TYWlkYS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/SupplyChain/Views/Saida/SelecionarDataExportacaoSaida.cshtml]
+[C:/SupplyChain v4/ProjetoSupllyChain/Views/Saida/SelecionarDataExportacaoSaida.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2FpZGFcU2VsZWNpb25hckRhdGFFeHBvcnRhY2FvU2FpZGEuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/SupplyChain/Views/Shared/Error.cshtml]
+[C:/SupplyChain v4/ProjetoSupllyChain/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/SupplyChain/Views/Shared/_ValidationScriptsPartial.cshtml]
+[C:/SupplyChain v4/ProjetoSupllyChain/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/SupplyChain/Views/_ViewImports.cshtml]
+[C:/SupplyChain v4/ProjetoSupllyChain/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/SupplyChain/Views/_ViewStart.cshtml]
+[C:/SupplyChain v4/ProjetoSupllyChain/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/SupplyChain/Views/Shared/_Layout.cshtml]
+[C:/SupplyChain v4/ProjetoSupllyChain/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-b82dr08rru
