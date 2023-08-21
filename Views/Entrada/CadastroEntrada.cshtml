@@ -47,8 +47,8 @@
             <input type="number" class="form-control" id="inputQuantidade" name="Quantidade">
         </div>
         <div class="form-group col-md-4">
-            <label for="inputDataEntrada">Data de Entrada:</label>
-            <input type="date" class="form-control" id="inputDataEntrada" name="DataHora">
+            <label for="inputDataHora">Data e Hora de Entrada:</label>
+            <input type="datetime-local" class="form-control" id="inputDataHora" name="DataHora">
         </div>
         <div class="form-group col-md-4">
             <label for="inputLocal">Local:</label>
@@ -114,7 +114,7 @@
                 <td>@entrada.Mercadoria.Tipo</td>
                 <td>@entrada.Mercadoria.Descricao</td>
                 <td>@entrada.Quantidade</td>
-                <td>@entrada.DataHora.ToString("dd/MM/yyyy")</td>
+                <td>@entrada.DataHora.ToString("dd/MM/yyyy HH:mm")</td>
                 <td>@entrada.Local</td>
                 <td>
                     <form asp-controller="Entrada" asp-action="ExcluirEntrada" method="post" onsubmit="return confirm('Deseja excluir esta entrada?');">
@@ -126,4 +126,3 @@
         }
     </tbody>
 </table>
-
