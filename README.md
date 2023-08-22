@@ -33,8 +33,6 @@ O Projeto SupplyChain é um sistema de gerenciamento de mercadorias desenvolvido
 
 ![db](https://github.com/philippdouglas/ProjetoSupllyChain/assets/78768376/d39e2460-f854-4ad2-b527-cd384db0c065)
   
-![3](https://github.com/philippdouglas/ProjetoSupllyChain/assets/78768376/526e2783-ec08-4108-bc8d-7fb65a2702bd)
-
 ## Rodar o Projeto (Vs Code)
 1. Abra o terminal no Visual Studio Code.
 
