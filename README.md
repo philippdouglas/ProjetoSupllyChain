@@ -11,7 +11,15 @@
 O Projeto SupplyChain é um sistema de gerenciamento de mercadorias desenvolvido em C#, .NET, Entity Framework, JQuery, Bootstrap e SQLite. O objetivo deste sistema é permitir o controle de estoque e movimentação de mercadorias, oferecendo funcionalidades para gerenciamento das mercadorias, registro de entradas e saídas, visualização de entradas e saídas por mês em formato de gráfico, e exportação de relatórios mensais contendo todas as movimentações.
 
 ## Funcionalidades
-- Gerencia as mercadorias disponíveis;
+
+- Cadastro e autenticação de usuários
+<h4 align="center"> 
+    :construction:  Em construção  :construction:
+</h4>
+
+![Autenticação](https://github.com/philippdouglas/ProjetoSupllyChain/assets/78768376/3452c195-403c-4ec1-bd28-7ea8ab1293b4)
+
+- Gerencia as mercadorias;
 
 ![5](https://github.com/philippdouglas/ProjetoSupllyChain/assets/78768376/c47fb96c-e2b8-47ee-8cdb-b59f583231b7)  
 ![excluir](https://github.com/philippdouglas/ProjetoSupllyChain/assets/78768376/431c830d-b307-403d-aa9c-f6c6bb65e2df)
