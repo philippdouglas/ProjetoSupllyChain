@@ -18,6 +18,9 @@ O Projeto SupplyChain é um sistema de gerenciamento de mercadorias desenvolvido
 ![Mercadoria](https://github.com/philippdouglas/ProjetoSupllyChain/assets/78768376/72a3bc3d-f20f-44c0-aacf-56e637f1ff1c)
 
 - Exporta relatórios mensais com todas as entradas e saídas de todas as mercadorias.
+
+![relatorio](https://github.com/philippdouglas/ProjetoSupllyChain/assets/78768376/5115ee98-b8a9-40ff-ae73-5c66831dd198)
+
 - Gráfico das entradas e saídas por mês de cada mercadoria;
 - Valida os dados no cliente antes de enviá-los ao servidor, garantindo que campos em branco e caracteres inválidos não sejam submetidos;
 - Desenvolvido no sistema .NET MVC, utilizando a linguagem C#;
@@ -27,6 +30,8 @@ O Projeto SupplyChain é um sistema de gerenciamento de mercadorias desenvolvido
 - Cria cadastro de entradas contendo quantidade, data e hora, local e lista (select) de todas as mercadorias já cadastradas, salvando a mercadoria selecionada na tabela de Entrada do banco de dados;
 - Registrar saídas contendo quantidade, data e hora, local e uma lista com todas as mercadorias já cadastradas, salvando a mercadoria selecionada na tabela de Saída do banco de dados;
 - Banco de dados utilizando SQLite.
+
+![db](https://github.com/philippdouglas/ProjetoSupllyChain/assets/78768376/d39e2460-f854-4ad2-b527-cd384db0c065)
   
 ![3](https://github.com/philippdouglas/ProjetoSupllyChain/assets/78768376/526e2783-ec08-4108-bc8d-7fb65a2702bd)
 
