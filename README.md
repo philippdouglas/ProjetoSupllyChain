@@ -46,7 +46,7 @@ dotnet build
 dotnet run
 ```
 
-3. Abra o seu navegador e acesse a URL [https://localhost:5001/Home](https://localhost:5001/Home) ou [https://localhost:5009/Home](https://localhost:5009/Home).
+3. Abra o seu navegador e acesse a URL [https://localhost:5001/Home](https://localhost:5001/Home).
 
 [![C#](https://img.shields.io/badge/-C%23-blue)](https://docs.microsoft.com/en-us/dotnet/csharp/)
 [![.NET](https://img.shields.io/badge/-.NET-blue)](https://dotnet.microsoft.com/)
