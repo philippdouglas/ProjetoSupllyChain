@@ -1,5 +1,12 @@
 # Projeto SupplyChain
 
+[![C#](https://img.shields.io/badge/-C%23-blue)](https://docs.microsoft.com/en-us/dotnet/csharp/)
+[![.NET](https://img.shields.io/badge/-.NET-blue)](https://dotnet.microsoft.com/)
+[![Entity Framework](https://img.shields.io/badge/-Entity%20Framework-lightgrey)](https://docs.microsoft.com/en-us/ef/)
+[![JQuery](https://img.shields.io/badge/-JQuery-blue)](https://jquery.com/)
+[![Bootstrap](https://img.shields.io/badge/-Bootstrap-blueviolet)](https://getbootstrap.com/)
+[![SQLite](https://img.shields.io/badge/-SQLite-blue)](https://www.sqlite.org/)
+
 ## Descrição
 O Projeto SupplyChain é um sistema de gerenciamento de mercadorias desenvolvido em C#, .NET, Entity Framework, JQuery, Bootstrap e SQLite. O objetivo deste sistema é permitir o controle de estoque e movimentação de mercadorias, oferecendo funcionalidades para gerenciamento das mercadorias, registro de entradas e saídas, visualização de entradas e saídas por mês em formato de gráfico, e exportação de relatórios mensais contendo todas as movimentações.
 
@@ -47,13 +54,6 @@ dotnet run
 ```
 
 3. Abra o seu navegador e acesse a URL [https://localhost:5001/Home](https://localhost:5001/Home).
-
-[![C#](https://img.shields.io/badge/-C%23-blue)](https://docs.microsoft.com/en-us/dotnet/csharp/)
-[![.NET](https://img.shields.io/badge/-.NET-blue)](https://dotnet.microsoft.com/)
-[![Entity Framework](https://img.shields.io/badge/-Entity%20Framework-lightgrey)](https://docs.microsoft.com/en-us/ef/)
-[![JQuery](https://img.shields.io/badge/-JQuery-blue)](https://jquery.com/)
-[![Bootstrap](https://img.shields.io/badge/-Bootstrap-blueviolet)](https://getbootstrap.com/)
-[![SQLite](https://img.shields.io/badge/-SQLite-blue)](https://www.sqlite.org/)
 
 ## Licença
 
