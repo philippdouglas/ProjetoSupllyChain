@@ -1,4 +1,4 @@
-﻿@model List<SupplyChain.Models.EntradaESaidaViewModel>
+@model List<SupplyChain.Models.EntradaESaidaViewModel>
 
 @{
     ViewBag.Title = "Relatório de Entradas e Saídas";
@@ -9,6 +9,9 @@
     <div class="chart-container">
         <canvas id="entradaSaidaChart"></canvas>
     </div>
+    
+    <!-- Botão de atualização do gráfico -->
+    <button id="btnAtualizarGrafico" class="btn btn-primary">Atualizar Gráfico</button>
 </div>
 
 <!-- Bibliotecas JavaScript necessárias para o gráfico -->
@@ -17,9 +20,38 @@
 <!-- Biblioteca chartjs-plugin-datalabels -->
 <script src="https://cdn.jsdelivr.net/npm/chartjs-plugin-datalabels@2.0.0/dist/chartjs-plugin-datalabels.min.js"></script>
 
-<!-- Script para configurar o gráfico -->
+<!-- Script para configurar o gráfico e a função de atualização -->
 <script>
+    // Função para atualizar o gráfico
+    function atualizarGrafico() {
+        $.ajax({
+            url: "/Relatorio/GetChartData",
+            method: "GET",
+            dataType: "json",
+            success: function (data) {
+                // Encontre o gráfico existente
+                var entradaSaidaChart = Chart.getChart("entradaSaidaChart");
+
+                // Atualize os labels e datasets do gráfico
+                entradaSaidaChart.data.labels = data.labels;
+                entradaSaidaChart.data.datasets = data.datasets;
+
+                // Atualize o gráfico
+                entradaSaidaChart.update();
+            },
+            error: function (error) {
+                console.error(error);
+            }
+        });
+    }
+
+    // Vincule o evento de clique do botão à função de atualização do gráfico
     $(document).ready(function () {
+        $('#btnAtualizarGrafico').click(function () {
+            atualizarGrafico();
+        });
+
+        // Configurar o gráfico inicialmente
         $.ajax({
             url: "/Relatorio/GetChartData",
             method: "GET",
