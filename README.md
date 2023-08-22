@@ -12,9 +12,9 @@ O Projeto SupplyChain é um sistema de gerenciamento de mercadorias desenvolvido
 
 ## Funcionalidades
 
-- Cadastro e autenticação de usuários
+
 <h4 align="center"> 
-    :construction:  Em construção  :construction:
+    :construction:  - Cadastro e autenticação de usuários funcionalidade em construção  :construction:
 </h4>
 
 ![Autenticação](https://github.com/philippdouglas/ProjetoSupllyChain/assets/78768376/3452c195-403c-4ec1-bd28-7ea8ab1293b4)
