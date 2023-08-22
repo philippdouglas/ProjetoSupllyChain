@@ -78,9 +78,9 @@
         
         <div class="register-form">
             <h3>Cadastro</h3>
-            <form action="/Usuario/Cadastrar" method="post">
+            <form asp-action="Cadastro" method="post">
                 <input type="text" name="Nome" placeholder="Nome" required>
-                <input type="text" name="E-mail" placeholder="E-mail" required>
+                <input type="text" name="Email" placeholder="E-mail" required>
                 <input type="text" name="Login" placeholder="Login" required>
                 <input type="password" name="Senha" placeholder="Senha" required>
                 <button class="btn" type="submit">Cadastrar</button>
