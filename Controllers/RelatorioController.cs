@@ -57,7 +57,7 @@ namespace SupplyChain.Controllers
                     Month = g.Key.Month,
                     Nome = g.Key.Nome,
                     Entradas = g.Sum(es => es.Quantidade >= 0 ? es.Quantidade : 0),
-                    Saidas = g.Sum(es => es.Quantidade < 0 ? es.Quantidade : 0)
+                    Saidas = -g.Sum(es => es.Quantidade < 0 ? es.Quantidade : 0) // Invert the quantity for the output (negative value)
                 })
                 .OrderBy(g => g.Year)
                 .ThenBy(g => g.Month)
@@ -83,7 +83,7 @@ namespace SupplyChain.Controllers
                 datasets.Add(new ChartDataset
                 {
                     Label = $"{productName} - Entradas",
-                    BackgroundColor = "red",
+                    BackgroundColor = "Orange",
                     Data = entradasData
                 });
 
